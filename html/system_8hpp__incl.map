@@ -1,0 +1,13 @@
+<map id="/home/peter/git/Kerbal/include/kerbal/config/system.hpp" name="/home/peter/git/Kerbal/include/kerbal/config/system.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="305,5,471,61"/>
+<area shape="rect" id="node2" href="$compiler__id_8hpp.html" title=" " alt="" coords="395,199,562,240"/>
+<area shape="rect" id="node7" href="$__0__freestanding_8hpp.html" title=" " alt="" coords="35,109,194,151"/>
+<area shape="rect" id="node8" href="$__1__windows_8hpp.html" title=" " alt="" coords="219,109,376,151"/>
+<area shape="rect" id="node9" href="$__2__linux_8hpp.html" title=" " alt="" coords="400,109,557,151"/>
+<area shape="rect" id="node10" href="$__3__apple_8hpp.html" title=" " alt="" coords="581,109,739,151"/>
+<area shape="rect" id="node11" href="$__4__android_8hpp.html" title=" " alt="" coords="763,109,920,151"/>
+<area shape="rect" id="node3" href="$compiler__id_2__0__gnu_8hpp.html" title=" " alt="" coords="110,288,277,329"/>
+<area shape="rect" id="node4" href="$compiler__id_2__1__clang_8hpp.html" title=" " alt="" coords="301,288,467,329"/>
+<area shape="rect" id="node5" href="$compiler__id_2__2__msvc_8hpp.html" title=" " alt="" coords="491,288,658,329"/>
+<area shape="rect" id="node6" href="$compiler__id_2__3__icc_8hpp.html" title=" " alt="" coords="682,288,849,329"/>
+</map>

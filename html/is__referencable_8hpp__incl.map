@@ -1,0 +1,13 @@
+<map id="/home/peter/git/Kerbal/include/kerbal/type_traits/is_referencable.hpp" name="/home/peter/git/Kerbal/include/kerbal/type_traits/is_referencable.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,196,61"/>
+<area shape="rect" id="node2" href="$modules__ts_8hpp.html" title=" " alt="" coords="19,199,177,240"/>
+<area shape="rect" id="node3" href="$integral__constant_8hpp.html" title=" " alt="" coords="193,109,360,151"/>
+<area shape="rect" id="node11" href="$void__type_8hpp.html" title=" " alt="" coords="33,109,169,151"/>
+<area shape="rect" id="node4" href="$constexpr_8hpp.html" title=" " alt="" coords="201,199,353,240"/>
+<area shape="rect" id="node5" href="$noexcept_8hpp.html" title=" " alt="" coords="377,199,529,240"/>
+<area shape="rect" id="node6" href="$compiler__id_8hpp.html" title=" " alt="" coords="369,288,536,329"/>
+<area shape="rect" id="node7" href="$compiler__id_2__0__gnu_8hpp.html" title=" " alt="" coords="84,377,251,419"/>
+<area shape="rect" id="node8" href="$compiler__id_2__1__clang_8hpp.html" title=" " alt="" coords="275,377,441,419"/>
+<area shape="rect" id="node9" href="$compiler__id_2__2__msvc_8hpp.html" title=" " alt="" coords="465,377,632,419"/>
+<area shape="rect" id="node10" href="$compiler__id_2__3__icc_8hpp.html" title=" " alt="" coords="656,377,823,419"/>
+</map>

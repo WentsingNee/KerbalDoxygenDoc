@@ -1,0 +1,16 @@
+<map id="/home/peter/git/Kerbal/include/kerbal/compatibility/fixed_width_integer.hpp" name="/home/peter/git/Kerbal/include/kerbal/compatibility/fixed_width_integer.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="226,5,433,61"/>
+<area shape="rect" id="node2" href="$static__assert_8hpp.html" title=" " alt="" coords="5,109,157,151"/>
+<area shape="rect" id="node3" href="$conditional_8hpp.html" title=" " alt="" coords="341,109,477,151"/>
+<area shape="rect" id="node13" href="$is__same_8hpp.html" title=" " alt="" coords="181,109,317,151"/>
+<area shape="rect" id="node14" title=" " alt="" coords="501,117,568,143"/>
+<area shape="rect" id="node4" href="$modules__ts_8hpp.html" title=" " alt="" coords="165,288,323,329"/>
+<area shape="rect" id="node5" href="$integral__constant_8hpp.html" title=" " alt="" coords="333,199,499,240"/>
+<area shape="rect" id="node6" href="$constexpr_8hpp.html" title=" " alt="" coords="347,288,499,329"/>
+<area shape="rect" id="node7" href="$noexcept_8hpp.html" title=" " alt="" coords="523,288,675,329"/>
+<area shape="rect" id="node8" href="$compiler__id_8hpp.html" title=" " alt="" coords="515,377,682,419"/>
+<area shape="rect" id="node9" href="$compiler__id_2__0__gnu_8hpp.html" title=" " alt="" coords="230,467,397,508"/>
+<area shape="rect" id="node10" href="$compiler__id_2__1__clang_8hpp.html" title=" " alt="" coords="421,467,587,508"/>
+<area shape="rect" id="node11" href="$compiler__id_2__2__msvc_8hpp.html" title=" " alt="" coords="611,467,778,508"/>
+<area shape="rect" id="node12" href="$compiler__id_2__3__icc_8hpp.html" title=" " alt="" coords="802,467,969,508"/>
+</map>

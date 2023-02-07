@@ -1,0 +1,24 @@
+<map id="/home/peter/git/Kerbal/include/kerbal/memory/raw_storage_uninitialized/destroy.hpp" name="/home/peter/git/Kerbal/include/kerbal/memory/raw_storage_uninitialized/destroy.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="855,5,1048,76"/>
+<area shape="rect" id="node2" href="$raw__storage__uninitialized_8hpp.html" title=" " alt="" coords="841,243,1062,299"/>
+<area shape="rect" id="node22" href="$raw__storage__uninitialized_2construct_8hpp.html" title=" " alt="" coords="923,124,1116,195"/>
+<area shape="rect" id="node3" href="$static__vector__base_8decl_8hpp.html" title=" " alt="" coords="707,347,913,417"/>
+<area shape="rect" id="node20" href="$static__vector_8impl_8hpp.html" title=" " alt="" coords="935,896,1194,952"/>
+<area shape="rect" id="node21" href="$static__vector__base_8impl_8hpp.html" title=" " alt="" coords="796,465,1005,536"/>
+<area shape="rect" id="node4" href="$static__vector__base_8hpp.html" title=" " alt="" coords="649,584,867,640"/>
+<area shape="rect" id="node5" href="$static__vector_8decl_8hpp.html" title=" " alt="" coords="545,688,801,744"/>
+<area shape="rect" id="node6" href="$static__vector_8hpp.html" title=" " alt="" coords="539,792,721,848"/>
+<area shape="rect" id="node7" href="$huffman_8hpp.html" title=" " alt="" coords="5,896,209,952"/>
+<area shape="rect" id="node8" href="$huffman__ptr_8hpp.html" title=" " alt="" coords="233,896,437,952"/>
+<area shape="rect" id="node9" href="$static__ordered_8hpp.html" title=" " alt="" coords="387,1416,569,1472"/>
+<area shape="rect" id="node11" href="$static__priority__queue_8hpp.html" title=" " alt="" coords="513,896,704,952"/>
+<area shape="rect" id="node12" href="$static__stack_8hpp.html" title=" " alt="" coords="728,896,911,952"/>
+<area shape="rect" id="node10" href="$static__flat__set_8hpp.html" title=" " alt="" coords="387,1520,569,1576"/>
+<area shape="rect" id="node13" href="$block__qsort_8hpp.html" title=" " alt="" coords="519,1000,703,1056"/>
+<area shape="rect" id="node14" href="$intro__sort_8hpp.html" title=" " alt="" coords="727,1000,911,1056"/>
+<area shape="rect" id="node15" href="$algorithm_2sort_8hpp.html" title=" " alt="" coords="598,1208,782,1264"/>
+<area shape="rect" id="node19" href="$algorithm_2sort_2sort_8hpp.html" title=" " alt="" coords="727,1104,911,1160"/>
+<area shape="rect" id="node16" href="$flat__ordered__base_8hpp.html" title=" " alt="" coords="583,1312,794,1368"/>
+<area shape="rect" id="node17" href="$flat__ordered_8hpp.html" title=" " alt="" coords="597,1416,780,1472"/>
+<area shape="rect" id="node18" href="$flat__set_8hpp.html" title=" " alt="" coords="597,1520,780,1576"/>
+</map>

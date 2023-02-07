@@ -1,0 +1,5 @@
+<map id="kerbal::memory::allocator_has_destroy&lt; Alloc, T, typename kerbal::type_traits::void_type&lt; decltype(kerbal::utility::declval&lt; Alloc &amp; &gt;().destroy(kerbal::utility::declval&lt; T * &gt;())) &gt;::type &gt;" name="kerbal::memory::allocator_has_destroy&lt; Alloc, T, typename kerbal::type_traits::void_type&lt; decltype(kerbal::utility::declval&lt; Alloc &amp; &gt;().destroy(kerbal::utility::declval&lt; T * &gt;())) &gt;::type &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="5,199,236,313"/>
+<area shape="rect" id="node2" href="$structkerbal_1_1type__traits_1_1true__type.html" title=" " alt="" coords="51,109,191,151"/>
+<area shape="rect" id="node3" href="$structkerbal_1_1type__traits_1_1integral__constant.html" title=" " alt="" coords="49,5,192,61"/>
+</map>

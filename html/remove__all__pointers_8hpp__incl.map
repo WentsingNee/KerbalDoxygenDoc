@@ -1,0 +1,19 @@
+<map id="/home/peter/git/Kerbal/include/kerbal/type_traits/remove_all_pointers.hpp" name="/home/peter/git/Kerbal/include/kerbal/type_traits/remove_all_pointers.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="122,5,313,61"/>
+<area shape="rect" id="node2" href="$modules__ts_8hpp.html" title=" " alt="" coords="283,377,440,419"/>
+<area shape="rect" id="node3" href="$conditional_8hpp.html" title=" " alt="" coords="70,109,206,151"/>
+<area shape="rect" id="node12" href="$is__pointer_8hpp.html" title=" " alt="" coords="230,109,366,151"/>
+<area shape="rect" id="node17" href="$remove__pointer_8hpp.html" title=" " alt="" coords="390,109,546,151"/>
+<area shape="rect" id="node4" href="$integral__constant_8hpp.html" title=" " alt="" coords="132,199,298,240"/>
+<area shape="rect" id="node5" href="$constexpr_8hpp.html" title=" " alt="" coords="96,288,248,329"/>
+<area shape="rect" id="node6" href="$noexcept_8hpp.html" title=" " alt="" coords="475,288,627,329"/>
+<area shape="rect" id="node7" href="$compiler__id_8hpp.html" title=" " alt="" coords="641,377,808,419"/>
+<area shape="rect" id="node8" href="$compiler__id_2__0__gnu_8hpp.html" title=" " alt="" coords="356,467,522,508"/>
+<area shape="rect" id="node9" href="$compiler__id_2__1__clang_8hpp.html" title=" " alt="" coords="546,467,713,508"/>
+<area shape="rect" id="node10" href="$compiler__id_2__2__msvc_8hpp.html" title=" " alt="" coords="737,467,904,508"/>
+<area shape="rect" id="node11" href="$compiler__id_2__3__icc_8hpp.html" title=" " alt="" coords="928,467,1094,508"/>
+<area shape="rect" id="node13" href="$remove__cv_8hpp.html" title=" " alt="" coords="424,199,560,240"/>
+<area shape="rect" id="node14" href="$remove__const_8hpp.html" title=" " alt="" coords="651,288,798,329"/>
+<area shape="rect" id="node16" href="$remove__volatile_8hpp.html" title=" " alt="" coords="822,288,982,329"/>
+<area shape="rect" id="node15" title=" " alt="" coords="849,385,920,411"/>
+</map>
