@@ -1,0 +1,21 @@
+<map id="/home/peter/workspace/Kerbal_release_test/Kerbal/include/kerbal/type_traits/detail/is_scalar/is_scalar.is_enum.part.hpp" name="/home/peter/workspace/Kerbal_release_test/Kerbal/include/kerbal/type_traits/detail/is_scalar/is_scalar.is_enum.part.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="412,5,657,91"/>
+<area shape="rect" id="node2" href="$is__enum_8part_8hpp.html" title=" " alt="" coords="415,139,654,180"/>
+<area shape="rect" id="node3" href="$is__enum_8intrin_8part_8hpp.html" title=" " alt="" coords="249,228,527,269"/>
+<area shape="rect" id="node13" href="$is__enum_8std_8part_8hpp.html" title=" " alt="" coords="562,228,825,269"/>
+<area shape="rect" id="node4" href="$compiler__intrinsics_8hpp.html" title=" " alt="" coords="231,407,422,463"/>
+<area shape="rect" id="node5" href="$compiler__id_8hpp.html" title=" " alt="" coords="390,808,557,849"/>
+<area shape="rect" id="node10" href="$type__traits_2detail_2compiler__intrinsics_2part_2__0__gnu_8part_8hpp.html" title=" " alt="" coords="365,511,555,567"/>
+<area shape="rect" id="node6" href="$config_2detail_2compiler__id_2__0__gnu_8part_8hpp.html" title=" " alt="" coords="5,897,216,939"/>
+<area shape="rect" id="node7" href="$config_2detail_2compiler__id_2__1__clang_8part_8hpp.html" title=" " alt="" coords="240,897,461,939"/>
+<area shape="rect" id="node8" href="$config_2detail_2compiler__id_2__2__msvc_8part_8hpp.html" title=" " alt="" coords="485,897,707,939"/>
+<area shape="rect" id="node9" href="$config_2detail_2compiler__id_2__3__icc_8part_8hpp.html" title=" " alt="" coords="731,897,935,939"/>
+<area shape="rect" id="node11" href="$compiler__private_8hpp.html" title=" " alt="" coords="411,615,578,656"/>
+<area shape="rect" id="node12" href="$config_2detail_2compiler__private_2__0__gnu_8part_8hpp.html" title=" " alt="" coords="453,704,608,760"/>
+<area shape="rect" id="node14" href="$integral__constant_8hpp.html" title=" " alt="" coords="610,317,777,359"/>
+<area shape="rect" id="node19" title=" " alt="" coords="801,325,893,351"/>
+<area shape="rect" id="node15" href="$modules__ts_8hpp.html" title=" " alt="" coords="447,414,604,455"/>
+<area shape="rect" id="node16" href="$constexpr_8hpp.html" title=" " alt="" coords="628,414,780,455"/>
+<area shape="rect" id="node17" href="$noexcept_8hpp.html" title=" " alt="" coords="804,414,956,455"/>
+<area shape="rect" id="node18" href="$exceptions_8hpp.html" title=" " alt="" coords="580,525,788,552"/>
+</map>

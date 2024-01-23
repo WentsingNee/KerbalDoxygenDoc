@@ -1,0 +1,5 @@
+<map id="kerbal::memory::allocator_has_allocate_one&lt; Alloc, typename kerbal::type_traits::void_type&lt; decltype(kerbal::utility::declval&lt; Alloc &amp; &gt;().allocate_one()) &gt;::type &gt;" name="kerbal::memory::allocator_has_allocate_one&lt; Alloc, typename kerbal::type_traits::void_type&lt; decltype(kerbal::utility::declval&lt; Alloc &amp; &gt;().allocate_one()) &gt;::type &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="5,199,220,299"/>
+<area shape="rect" id="node2" href="$structkerbal_1_1type__traits_1_1true__type.html" title=" " alt="" coords="43,109,183,151"/>
+<area shape="rect" id="node3" href="$structkerbal_1_1type__traits_1_1integral__constant.html" title=" " alt="" coords="41,5,184,61"/>
+</map>

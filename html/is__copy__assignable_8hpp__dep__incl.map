@@ -1,0 +1,23 @@
+<map id="/home/peter/workspace/Kerbal_release_test/Kerbal/include/kerbal/type_traits/is_copy_assignable.hpp" name="/home/peter/workspace/Kerbal_release_test/Kerbal/include/kerbal/type_traits/is_copy_assignable.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="201,5,456,76"/>
+<area shape="rect" id="node2" href="$try__test__is__nothrow__copy__assignable_8guess_8part_8hpp.html" title=" " alt="" coords="7,124,205,239"/>
+<area shape="rect" id="node5" href="$try__test__is__trivially__copy__assignable_8guess_8part_8hpp.html" title=" " alt="" coords="229,124,428,239"/>
+<area shape="rect" id="node20" href="$is__trivially__copyable_8hpp.html" title=" " alt="" coords="377,583,552,668"/>
+<area shape="rect" id="node3" href="$try__test__is__nothrow__copy__assignable_8part_8hpp.html" title=" " alt="" coords="7,287,205,401"/>
+<area shape="rect" id="node4" href="$is__nothrow__copy__assignable_8hpp.html" title=" " alt="" coords="19,449,193,535"/>
+<area shape="rect" id="node6" href="$try__test__is__trivially__copy__assignable_8part_8hpp.html" title=" " alt="" coords="231,287,426,401"/>
+<area shape="rect" id="node7" href="$is__trivially__copy__assignable_8hpp.html" title=" " alt="" coords="241,449,416,535"/>
+<area shape="rect" id="node8" href="$static__vector_8impl_8hpp.html" title=" " alt="" coords="169,583,344,668"/>
+<area shape="rect" id="node9" href="$static__vector_8hpp.html" title=" " alt="" coords="138,723,341,794"/>
+<area shape="rect" id="node10" href="$static__ordered_8hpp.html" title=" " alt="" coords="5,1472,217,1543"/>
+<area shape="rect" id="node12" href="$static__priority__queue_8hpp.html" title=" " alt="" coords="149,849,330,935"/>
+<area shape="rect" id="node13" href="$static__stack_8hpp.html" title=" " alt="" coords="354,857,551,927"/>
+<area shape="rect" id="node11" href="$static__flat__set_8hpp.html" title=" " alt="" coords="24,1591,199,1676"/>
+<area shape="rect" id="node14" href="$intro__sort_8hpp.html" title=" " alt="" coords="347,983,559,1053"/>
+<area shape="rect" id="node15" href="$sort_8hpp.html" title=" " alt="" coords="249,1220,424,1291"/>
+<area shape="rect" id="node19" href="$sort_2sort_8hpp.html" title=" " alt="" coords="372,1101,547,1172"/>
+<area shape="rect" id="node16" href="$flat__ordered__base_8hpp.html" title=" " alt="" coords="249,1339,424,1424"/>
+<area shape="rect" id="node17" href="$flat__ordered_8hpp.html" title=" " alt="" coords="242,1472,439,1543"/>
+<area shape="rect" id="node18" href="$flat__set_8hpp.html" title=" " alt="" coords="253,1598,428,1669"/>
+<area shape="rect" id="node21" href="$reallocable__allocator_8hpp.html" title=" " alt="" coords="365,716,583,801"/>
+</map>

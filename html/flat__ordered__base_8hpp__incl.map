@@ -1,0 +1,52 @@
+<map id="/home/peter/workspace/Kerbal_release_test/Kerbal/include/kerbal/container/detail/flat_ordered_base.hpp" name="/home/peter/workspace/Kerbal_release_test/Kerbal/include/kerbal/container/detail/flat_ordered_base.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="4570,5,4745,91"/>
+<area shape="rect" id="node2" href="$equal__range_8hpp.html" title=" " alt="" coords="1136,407,1320,448"/>
+<area shape="rect" id="node3" href="$lower__bound_8hpp.html" title=" " alt="" coords="816,496,1003,537"/>
+<area shape="rect" id="node6" href="$noexcept_8hpp.html" title=" " alt="" coords="5008,957,5160,999"/>
+<area shape="rect" id="node12" href="$iterator_8hpp.html" title=" " alt="" coords="2783,600,2977,627"/>
+<area shape="rect" id="node14" href="$iterator__traits_8hpp.html" title=" " alt="" coords="2618,689,2785,731"/>
+<area shape="rect" id="node15" href="$is__same_8hpp.html" title=" " alt="" coords="4559,779,4695,820"/>
+<area shape="rect" id="node20" href="$upper__bound_8hpp.html" title=" " alt="" coords="1665,496,1853,537"/>
+<area shape="rect" id="node21" title=" " alt="" coords="246,503,306,530"/>
+<area shape="rect" id="node22" href="$lower__bound__hint_8hpp.html" title=" " alt="" coords="800,407,1019,448"/>
+<area shape="rect" id="node24" href="$upper__bound__hint_8hpp.html" title=" " alt="" coords="1517,407,1737,448"/>
+<area shape="rect" id="node26" href="$unique_8hpp.html" title=" " alt="" coords="4484,496,4671,537"/>
+<area shape="rect" id="node29" href="$sort_8hpp.html" title=" " alt="" coords="3261,146,3448,173"/>
+<area shape="rect" id="node34" href="$compatibility_2move_8hpp.html" title=" " alt="" coords="4980,593,5132,634"/>
+<area shape="rect" id="node45" href="$enable__if_8hpp.html" title=" " alt="" coords="5375,228,5511,269"/>
+<area shape="rect" id="node46" href="$tribool__constant_8hpp.html" title=" " alt="" coords="4410,593,4569,634"/>
+<area shape="rect" id="node47" href="$as__const_8hpp.html" title=" " alt="" coords="5074,875,5267,902"/>
+<area shape="rect" id="node48" href="$member__compress__helper_8hpp.html" title=" " alt="" coords="4797,496,4963,537"/>
+<area shape="rect" id="node49" href="$is__nothrow__default__constructible_8hpp.html" title=" " alt="" coords="5207,585,5358,641"/>
+<area shape="rect" id="node50" href="$is__nothrow__copy__constructible_8hpp.html" title=" " alt="" coords="5637,139,5891,180"/>
+<area shape="rect" id="node4" href="$binary__type__compare_8hpp.html" title=" " alt="" coords="1556,593,1724,634"/>
+<area shape="rect" id="node5" href="$constexpr_8hpp.html" title=" " alt="" coords="1789,957,1941,999"/>
+<area shape="rect" id="node8" href="$integral__constant_8hpp.html" title=" " alt="" coords="4115,868,4282,909"/>
+<area shape="rect" id="node10" href="$remove__reference_8hpp.html" title=" " alt="" coords="4964,689,5137,731"/>
+<area shape="rect" id="node11" title=" " alt="" coords="3898,786,3969,813"/>
+<area shape="rect" id="node7" href="$exceptions_8hpp.html" title=" " alt="" coords="4880,1047,5088,1073"/>
+<area shape="rect" id="node9" href="$modules__ts_8hpp.html" title=" " alt="" coords="3676,957,3833,999"/>
+<area shape="rect" id="node13" href="$static__assert_8hpp.html" title=" " alt="" coords="3767,689,3919,731"/>
+<area shape="rect" id="node19" href="$sign__deduction_8hpp.html" title=" " alt="" coords="3135,689,3287,731"/>
+<area shape="rect" id="node16" href="$remove__cv_8hpp.html" title=" " alt="" coords="2983,779,3119,820"/>
+<area shape="rect" id="node17" href="$void__type_8hpp.html" title=" " alt="" coords="2924,868,3060,909"/>
+<area shape="rect" id="node18" title=" " alt="" coords="2666,786,2737,813"/>
+<area shape="rect" id="node23" href="$lower__bound__backward_8hpp.html" title=" " alt="" coords="483,496,741,537"/>
+<area shape="rect" id="node25" href="$upper__bound__backward_8hpp.html" title=" " alt="" coords="1280,496,1539,537"/>
+<area shape="rect" id="node27" href="$generic__assign_8hpp.html" title=" " alt="" coords="4644,593,4804,634"/>
+<area shape="rect" id="node28" href="$basic__compare_8hpp.html" title=" " alt="" coords="3919,593,4081,634"/>
+<area shape="rect" id="node30" href="$bubble__sort_8hpp.html" title=" " alt="" coords="2498,496,2657,537"/>
+<area shape="rect" id="node31" href="$heap__sort_8hpp.html" title=" " alt="" coords="2081,496,2239,537"/>
+<area shape="rect" id="node32" href="$inplace__merge__sort_8hpp.html" title=" " alt="" coords="3170,496,3353,537"/>
+<area shape="rect" id="node33" href="$insertion__sort_8hpp.html" title=" " alt="" coords="2939,407,3098,448"/>
+<area shape="rect" id="node35" href="$intro__sort_8hpp.html" title=" " alt="" coords="3126,317,3285,359"/>
+<area shape="rect" id="node36" href="$is__sorted_8hpp.html" title=" " alt="" coords="2263,496,2422,537"/>
+<area shape="rect" id="node37" href="$merge__sort_8hpp.html" title=" " alt="" coords="3794,496,3953,537"/>
+<area shape="rect" id="node38" href="$pigeonhole__sort_8hpp.html" title=" " alt="" coords="3559,496,3718,537"/>
+<area shape="rect" id="node39" href="$quick__sort_8hpp.html" title=" " alt="" coords="4174,317,4333,359"/>
+<area shape="rect" id="node40" href="$radix__sort_8hpp.html" title=" " alt="" coords="3377,496,3535,537"/>
+<area shape="rect" id="node41" href="$selection__sort_8hpp.html" title=" " alt="" coords="2783,496,2942,537"/>
+<area shape="rect" id="node42" href="$shell__sort_8hpp.html" title=" " alt="" coords="2654,317,2813,359"/>
+<area shape="rect" id="node43" href="$sort_2sort_8hpp.html" title=" " alt="" coords="3678,228,3837,269"/>
+<area shape="rect" id="node44" href="$stable__sort_8hpp.html" title=" " alt="" coords="3545,317,3703,359"/>
+</map>

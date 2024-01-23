@@ -1,0 +1,5 @@
+<map id="kerbal::memory::allocator_has_mem_minimum_alignment&lt; Alloc, typename kerbal::type_traits::void_type&lt; decltype(kerbal::utility::declval&lt; const Alloc &amp; &gt;().minimum_alignment()) &gt;::type &gt;" name="kerbal::memory::allocator_has_mem_minimum_alignment&lt; Alloc, typename kerbal::type_traits::void_type&lt; decltype(kerbal::utility::declval&lt; const Alloc &amp; &gt;().minimum_alignment()) &gt;::type &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="5,199,257,313"/>
+<area shape="rect" id="node2" href="$structkerbal_1_1type__traits_1_1true__type.html" title=" " alt="" coords="61,109,201,151"/>
+<area shape="rect" id="node3" href="$structkerbal_1_1type__traits_1_1integral__constant.html" title=" " alt="" coords="60,5,203,61"/>
+</map>
