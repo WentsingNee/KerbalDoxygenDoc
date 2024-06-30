@@ -1,0 +1,21 @@
+<map id="kerbal::numeric::detail::k_is_specialized&lt; true &gt;" name="kerbal::numeric::detail::k_is_specialized&lt; true &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="5,549,172,589"/>
+<area shape="rect" id="node2" href="$classkerbal_1_1numeric_1_1numeric__limits_3_01bool_01_4.html" title=" " alt="" coords="233,5,395,45"/>
+<area shape="rect" id="node3" href="$classkerbal_1_1numeric_1_1numeric__limits_3_01char_01_4.html" title=" " alt="" coords="233,69,395,109"/>
+<area shape="rect" id="node4" href="$classkerbal_1_1numeric_1_1numeric__limits_3_01char16__t_01_4.html" title=" " alt="" coords="233,133,395,173"/>
+<area shape="rect" id="node5" href="$classkerbal_1_1numeric_1_1numeric__limits_3_01char32__t_01_4.html" title=" " alt="" coords="233,197,395,237"/>
+<area shape="rect" id="node6" href="$classkerbal_1_1numeric_1_1numeric__limits_3_01double_01_4.html" title=" " alt="" coords="233,261,395,301"/>
+<area shape="rect" id="node7" href="$classkerbal_1_1numeric_1_1numeric__limits_3_01float_01_4.html" title=" " alt="" coords="233,325,395,365"/>
+<area shape="rect" id="node8" href="$classkerbal_1_1numeric_1_1numeric__limits_3_01int_01_4.html" title=" " alt="" coords="233,389,395,429"/>
+<area shape="rect" id="node9" href="$classkerbal_1_1numeric_1_1numeric__limits_3_01long_01_4.html" title=" " alt="" coords="233,453,395,493"/>
+<area shape="rect" id="node10" href="$classkerbal_1_1numeric_1_1numeric__limits_3_01long_01double_01_4.html" title=" " alt="" coords="233,517,395,557"/>
+<area shape="rect" id="node11" href="$classkerbal_1_1numeric_1_1numeric__limits_3_01long_01long_01_4.html" title=" " alt="" coords="233,581,395,621"/>
+<area shape="rect" id="node12" href="$classkerbal_1_1numeric_1_1numeric__limits_3_01short_01_4.html" title=" " alt="" coords="233,645,395,685"/>
+<area shape="rect" id="node13" href="$classkerbal_1_1numeric_1_1numeric__limits_3_01signed_01char_01_4.html" title=" " alt="" coords="233,709,395,749"/>
+<area shape="rect" id="node14" href="$classkerbal_1_1numeric_1_1numeric__limits_3_01unsigned_01char_01_4.html" title=" " alt="" coords="233,773,395,813"/>
+<area shape="rect" id="node15" href="$classkerbal_1_1numeric_1_1numeric__limits_3_01unsigned_01int_01_4.html" title=" " alt="" coords="233,837,395,877"/>
+<area shape="rect" id="node16" href="$classkerbal_1_1numeric_1_1numeric__limits_3_01unsigned_01long_01_4.html" title=" " alt="" coords="233,901,395,941"/>
+<area shape="rect" id="node17" href="$classkerbal_1_1numeric_1_1numeric__limits_3_01unsigned_01long_01long_01_4.html" title=" " alt="" coords="220,965,408,1005"/>
+<area shape="rect" id="node18" href="$classkerbal_1_1numeric_1_1numeric__limits_3_01unsigned_01short_01_4.html" title=" " alt="" coords="231,1029,397,1069"/>
+<area shape="rect" id="node19" href="$classkerbal_1_1numeric_1_1numeric__limits_3_01wchar__t_01_4.html" title=" " alt="" coords="233,1093,395,1133"/>
+</map>

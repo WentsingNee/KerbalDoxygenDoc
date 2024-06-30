@@ -1,0 +1,7 @@
+<map id="kerbal::iterator::detail::move_iterator_impl&lt; Iter, std::input_iterator_tag &gt;" name="kerbal::iterator::detail::move_iterator_impl&lt; Iter, std::input_iterator_tag &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="207,13,379,67"/>
+<area shape="rect" id="node3" href="$classkerbal_1_1iterator_1_1detail_1_1move__iterator__impl_3_01_iter_00_01std_1_1forward__iterator__tag_01_4.html" title=" " alt="" coords="427,13,601,67"/>
+<area shape="rect" id="node2" href="$structkerbal_1_1operators_1_1incrementable.html" title=" " alt="" coords="5,5,159,75"/>
+<area shape="rect" id="node4" href="$classkerbal_1_1iterator_1_1detail_1_1move__iterator__impl_3_01_iter_00_01std_1_1bidirectional__iterator__tag_01_4.html" title=" " alt="" coords="649,13,851,67"/>
+<area shape="rect" id="node5" href="$classkerbal_1_1iterator_1_1detail_1_1move__iterator__impl_3_01_iter_00_01std_1_1random__access__iterator__tag_01_4.html" title=" " alt="" coords="899,13,1123,67"/>
+</map>

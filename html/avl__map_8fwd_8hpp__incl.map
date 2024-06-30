@@ -1,0 +1,52 @@
+<map id="/github/workspace/Kerbal/include/kerbal/container/avl_map/avl_map.fwd.hpp" name="/github/workspace/Kerbal/include/kerbal/container/avl_map/avl_map.fwd.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2554,5,2730,60"/>
+<area shape="rect" id="node2" href="$binary__type__compare_8hpp.html" title=" " alt="" coords="1919,372,2069,412"/>
+<area shape="rect" id="node26" href="$map__data_8hpp.html" title=" " alt="" coords="2537,108,2747,148"/>
+<area shape="rect" id="node50" title=" " alt="" coords="2772,115,2840,141"/>
+<area shape="rect" id="node3" href="$sequence__compare_8fwd_8hpp.html" title=" " alt="" coords="247,548,491,588"/>
+<area shape="rect" id="node4" href="$constexpr_8hpp.html" title=" " alt="" coords="907,827,1041,867"/>
+<area shape="rect" id="node5" href="$noexcept_8hpp.html" title=" " alt="" coords="2590,827,2723,867"/>
+<area shape="rect" id="node13" title=" " alt="" coords="1236,643,1301,669"/>
+<area shape="rect" id="node14" href="$static__assert_8hpp.html" title=" " alt="" coords="2382,636,2515,676"/>
+<area shape="rect" id="node15" href="$macro__concat_8hpp.html" title=" " alt="" coords="353,460,491,500"/>
+<area shape="rect" id="node16" href="$integral__constant_8hpp.html" title=" " alt="" coords="2582,731,2731,771"/>
+<area shape="rect" id="node18" href="$is__array_8hpp.html" title=" " alt="" coords="2695,548,2816,588"/>
+<area shape="rect" id="node19" href="$remove__reference_8hpp.html" title=" " alt="" coords="3625,636,3779,676"/>
+<area shape="rect" id="node20" href="$declval_8hpp.html" title=" " alt="" coords="2917,467,3077,493"/>
+<area shape="rect" id="node23" href="$forward_8hpp.html" title=" " alt="" coords="3253,467,3415,493"/>
+<area shape="rect" id="node6" href="$exceptions_8hpp.html" title=" " alt="" coords="3564,915,3749,940"/>
+<area shape="rect" id="node7" href="$compiler__id_8hpp.html" title=" " alt="" coords="3695,1076,3843,1116"/>
+<area shape="rect" id="node12" href="$compiler__private_8hpp.html" title=" " alt="" coords="3695,988,3843,1028"/>
+<area shape="rect" id="node8" href="$config_2detail_2compiler__id_2__0__gnu_8part_8hpp.html" title=" " alt="" coords="3349,1164,3535,1204"/>
+<area shape="rect" id="node9" href="$config_2detail_2compiler__id_2__1__clang_8part_8hpp.html" title=" " alt="" coords="3559,1164,3757,1204"/>
+<area shape="rect" id="node10" href="$config_2detail_2compiler__id_2__2__msvc_8part_8hpp.html" title=" " alt="" coords="3781,1164,3980,1204"/>
+<area shape="rect" id="node11" href="$config_2detail_2compiler__id_2__3__icc_8part_8hpp.html" title=" " alt="" coords="4004,1164,4187,1204"/>
+<area shape="rect" id="node17" href="$modules__ts_8hpp.html" title=" " alt="" coords="3324,827,3467,867"/>
+<area shape="rect" id="node21" href="$add__rvalue__reference_8hpp.html" title=" " alt="" coords="3359,548,3533,588"/>
+<area shape="rect" id="node22" href="$add__rvalue__reference_8cxx11_8part_8hpp.html" title=" " alt="" coords="3483,724,3718,779"/>
+<area shape="rect" id="node24" href="$forward_8cxx11_8part_8hpp.html" title=" " alt="" coords="3145,548,3334,588"/>
+<area shape="rect" id="node25" href="$is__lvalue__reference_8hpp.html" title=" " alt="" coords="3094,636,3257,676"/>
+<area shape="rect" id="node27" href="$namespace__std__scope_8hpp.html" title=" " alt="" coords="147,372,331,412"/>
+<area shape="rect" id="node32" href="$compressed__pair_8hpp.html" title=" " alt="" coords="2559,196,2725,236"/>
+<area shape="rect" id="node36" href="$compatibility_2move_8hpp.html" title=" " alt="" coords="3659,548,3793,588"/>
+<area shape="rect" id="node46" href="$piecewise__construct_8hpp.html" title=" " alt="" coords="3449,372,3603,412"/>
+<area shape="rect" id="node48" href="$std__tuple_8fwd_8hpp.html" title=" " alt="" coords="158,284,321,324"/>
+<area shape="rect" id="node49" title=" " alt="" coords="3651,291,3734,317"/>
+<area shape="rect" id="node28" href="$cxx__stdlib_8hpp.html" title=" " alt="" coords="751,467,931,493"/>
+<area shape="rect" id="node29" href="$__0__libstdcxx_8part_8hpp.html" title=" " alt="" coords="1044,548,1251,588"/>
+<area shape="rect" id="node30" href="$__1__libcxx_8part_8hpp.html" title=" " alt="" coords="617,548,806,588"/>
+<area shape="rect" id="node31" href="$config_2detail_2cxx__stdlib_2__2__msvc_8part_8hpp.html" title=" " alt="" coords="830,548,1019,588"/>
+<area shape="rect" id="node33" href="$compressed__pair_8fwd_8hpp.html" title=" " alt="" coords="2144,284,2345,324"/>
+<area shape="rect" id="node34" href="$std__pair_8fwd_8hpp.html" title=" " alt="" coords="447,284,595,324"/>
+<area shape="rect" id="node35" href="$swap_8hpp.html" title=" " alt="" coords="1862,467,2035,493"/>
+<area shape="rect" id="node38" href="$tribool__constant_8hpp.html" title=" " alt="" coords="2273,548,2416,588"/>
+<area shape="rect" id="node40" href="$generic__assign_8hpp.html" title=" " alt="" coords="2655,372,2800,412"/>
+<area shape="rect" id="node41" href="$method__overload__tag_8hpp.html" title=" " alt="" coords="3793,731,3968,771"/>
+<area shape="rect" id="node42" href="$type__vector_8hpp.html" title=" " alt="" coords="2441,555,2619,581"/>
+<area shape="rect" id="node43" href="$is__same_8hpp.html" title=" " alt="" coords="2796,636,2917,676"/>
+<area shape="rect" id="node44" href="$in__place_8hpp.html" title=" " alt="" coords="1327,379,1493,405"/>
+<area shape="rect" id="node45" href="$member__compress__helper_8hpp.html" title=" " alt="" coords="2813,284,2965,324"/>
+<area shape="rect" id="node47" href="$is__nothrow__constructible_8hpp.html" title=" " alt="" coords="3179,372,3374,412"/>
+<area shape="rect" id="node37" href="$iterator_8hpp.html" title=" " alt="" coords="1927,555,2096,581"/>
+<area shape="rect" id="node39" href="$is__nothrow__move__assignable_8hpp.html" title=" " alt="" coords="1630,548,1851,588"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="/github/workspace/Kerbal/include/kerbal/container/detail/vector_base.hpp" name="/github/workspace/Kerbal/include/kerbal/container/detail/vector_base.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="1373,5,1543,60"/>
+<area shape="rect" id="node2" href="$vector__base_8fwd_8hpp.html" title=" " alt="" coords="963,577,1183,617"/>
+<area shape="rect" id="node3" href="$vector__base_8decl_8hpp.html" title=" " alt="" coords="1347,196,1569,236"/>
+<area shape="rect" id="node36" href="$vector__base_8impl_8hpp.html" title=" " alt="" coords="3544,108,3767,148"/>
+<area shape="rect" id="node4" href="$vector_8fwd_8hpp.html" title=" " alt="" coords="1054,482,1209,522"/>
+<area shape="rect" id="node6" href="$constexpr_8hpp.html" title=" " alt="" coords="3787,753,3921,793"/>
+<area shape="rect" id="node7" href="$noexcept_8hpp.html" title=" " alt="" coords="2859,753,2993,793"/>
+<area shape="rect" id="node9" href="$iterator__traits_8hpp.html" title=" " alt="" coords="1959,482,2104,522"/>
+<area shape="rect" id="node10" href="$integral__constant_8hpp.html" title=" " alt="" coords="1361,665,1510,705"/>
+<area shape="rect" id="node17" href="$reverse__iterator_8hpp.html" title=" " alt="" coords="2199,284,2347,324"/>
+<area shape="rect" id="node25" href="$allocator__traits_8hpp.html" title=" " alt="" coords="903,379,1063,419"/>
+<area shape="rect" id="node30" href="$uninitialized__using__allocator_8hpp.html" title=" " alt="" coords="4821,482,4999,522"/>
+<area shape="rect" id="node31" href="$conditional_8hpp.html" title=" " alt="" coords="233,577,355,617"/>
+<area shape="rect" id="node32" href="$enable__if_8hpp.html" title=" " alt="" coords="841,284,963,324"/>
+<area shape="rect" id="node33" href="$remove__all__extents_8hpp.html" title=" " alt="" coords="1233,482,1395,522"/>
+<area shape="rect" id="node34" title=" " alt="" coords="1241,291,1294,317"/>
+<area shape="rect" id="node35" href="$vector__iterator_8hpp.html" title=" " alt="" coords="2639,379,2847,419"/>
+<area shape="rect" id="node5" title=" " alt="" coords="1207,585,1275,610"/>
+<area shape="rect" id="node8" href="$exceptions_8hpp.html" title=" " alt="" coords="2833,841,3019,867"/>
+<area shape="rect" id="node11" href="$modules__ts_8hpp.html" title=" " alt="" coords="543,753,685,793"/>
+<area shape="rect" id="node12" href="$is__same_8hpp.html" title=" " alt="" coords="1553,577,1675,617"/>
+<area shape="rect" id="node13" href="$remove__cv_8hpp.html" title=" " alt="" coords="379,577,500,617"/>
+<area shape="rect" id="node14" href="$void__type_8hpp.html" title=" " alt="" coords="645,665,767,705"/>
+<area shape="rect" id="node15" title=" " alt="" coords="2104,585,2167,610"/>
+<area shape="rect" id="node16" title=" " alt="" coords="3231,585,3296,610"/>
+<area shape="rect" id="node18" href="$iterator_8hpp.html" title=" " alt="" coords="2445,387,2615,412"/>
+<area shape="rect" id="node19" href="$addable_8hpp.html" title=" " alt="" coords="3057,673,3245,698"/>
+<area shape="rect" id="node20" href="$dereferenceable_8hpp.html" title=" " alt="" coords="2509,673,2743,698"/>
+<area shape="rect" id="node21" href="$incr__decr_8hpp.html" title=" " alt="" coords="2128,482,2268,522"/>
+<area shape="rect" id="node22" href="$is__nothrow__copy__constructible_8hpp.html" title=" " alt="" coords="1699,577,1927,617"/>
+<area shape="rect" id="node23" href="$subtractable_8hpp.html" title=" " alt="" coords="2819,673,3033,698"/>
+<area shape="rect" id="node24" href="$is__nothrow__default__constructible_8hpp.html" title=" " alt="" coords="1947,372,2081,427"/>
+<area shape="rect" id="node26" href="$forward_8hpp.html" title=" " alt="" coords="4381,585,4543,610"/>
+<area shape="rect" id="node27" href="$pointer__type_8hpp.html" title=" " alt="" coords="626,577,786,617"/>
+<area shape="rect" id="node28" href="$const__pointer__type_8hpp.html" title=" " alt="" coords="507,475,667,529"/>
+<area shape="rect" id="node29" href="$void__pointer__type_8hpp.html" title=" " alt="" coords="742,482,929,522"/>
+<area shape="rect" id="node37" href="$copy_8hpp.html" title=" " alt="" coords="3102,379,3265,419"/>
+<area shape="rect" id="node38" href="$generic__assign_8hpp.html" title=" " alt="" coords="3700,482,3845,522"/>
+<area shape="rect" id="node39" href="$fill_8hpp.html" title=" " alt="" coords="3441,379,3603,419"/>
+<area shape="rect" id="node40" href="$algorithm_2modifier_2move_8hpp.html" title=" " alt="" coords="3779,379,3942,419"/>
+<area shape="rect" id="node41" href="$compatibility_2move_8hpp.html" title=" " alt="" coords="4134,482,4267,522"/>
+<area shape="rect" id="node42" href="$move__backward_8hpp.html" title=" " alt="" coords="3966,379,4129,419"/>
+<area shape="rect" id="node43" href="$swap_8hpp.html" title=" " alt="" coords="3339,291,3513,317"/>
+<area shape="rect" id="node44" href="$raw__storage_8hpp.html" title=" " alt="" coords="4691,387,4897,412"/>
+<area shape="rect" id="node45" href="$compressed__pair_8hpp.html" title=" " alt="" coords="3572,196,3739,236"/>
+<area shape="rect" id="node46" href="$throw__this__exception_8hpp.html" title=" " alt="" coords="5074,482,5210,522"/>
+<area shape="rect" id="node47" href="$move__iterator_8hpp.html" title=" " alt="" coords="4831,196,4968,236"/>
+<area shape="rect" id="node48" href="$bad__alloc_8hpp.html" title=" " alt="" coords="3372,673,3563,698"/>
+<area shape="rect" id="node49" title=" " alt="" coords="4992,203,5071,229"/>
+<area shape="rect" id="node50" href="$basic__copy__n_8hpp.html" title=" " alt="" coords="4457,379,4667,419"/>
+</map>

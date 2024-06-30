@@ -1,0 +1,20 @@
+<map id="/github/workspace/Kerbal/include/kerbal/algorithm/sort/detail/actual_bit_width.hpp" name="/github/workspace/Kerbal/include/kerbal/algorithm/sort/detail/actual_bit_width.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="547,5,752,60"/>
+<area shape="rect" id="node2" href="$integral__constant_8hpp.html" title=" " alt="" coords="231,108,380,148"/>
+<area shape="rect" id="node14" href="$remove__cv_8hpp.html" title=" " alt="" coords="454,108,575,148"/>
+<area shape="rect" id="node16" title=" " alt="" coords="555,291,621,317"/>
+<area shape="rect" id="node18" title=" " alt="" coords="795,115,855,141"/>
+<area shape="rect" id="node3" href="$modules__ts_8hpp.html" title=" " alt="" coords="337,284,479,324"/>
+<area shape="rect" id="node4" href="$constexpr_8hpp.html" title=" " alt="" coords="5,196,139,236"/>
+<area shape="rect" id="node5" href="$noexcept_8hpp.html" title=" " alt="" coords="163,196,296,236"/>
+<area shape="rect" id="node6" href="$exceptions_8hpp.html" title=" " alt="" coords="127,291,313,317"/>
+<area shape="rect" id="node7" href="$compiler__id_8hpp.html" title=" " alt="" coords="386,563,534,603"/>
+<area shape="rect" id="node12" href="$compiler__private_8hpp.html" title=" " alt="" coords="279,372,427,412"/>
+<area shape="rect" id="node8" href="$config_2detail_2compiler__id_2__0__gnu_8part_8hpp.html" title=" " alt="" coords="40,651,227,691"/>
+<area shape="rect" id="node9" href="$config_2detail_2compiler__id_2__1__clang_8part_8hpp.html" title=" " alt="" coords="251,651,448,691"/>
+<area shape="rect" id="node10" href="$config_2detail_2compiler__id_2__2__msvc_8part_8hpp.html" title=" " alt="" coords="473,651,671,691"/>
+<area shape="rect" id="node11" href="$config_2detail_2compiler__id_2__3__icc_8part_8hpp.html" title=" " alt="" coords="695,651,878,691"/>
+<area shape="rect" id="node13" href="$config_2detail_2compiler__private_2__0__gnu_8part_8hpp.html" title=" " alt="" coords="284,460,423,515"/>
+<area shape="rect" id="node15" href="$remove__const_8hpp.html" title=" " alt="" coords="422,196,554,236"/>
+<area shape="rect" id="node17" href="$remove__volatile_8hpp.html" title=" " alt="" coords="579,196,720,236"/>
+</map>

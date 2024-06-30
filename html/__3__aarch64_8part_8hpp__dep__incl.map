@@ -1,0 +1,20 @@
+<map id="/github/workspace/Kerbal/include/kerbal/config/detail/architecture/_3_aarch64.part.hpp" name="/github/workspace/Kerbal/include/kerbal/config/detail/architecture/_3_aarch64.part.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="692,5,861,75"/>
+<area shape="rect" id="node2" href="$architecture_8hpp.html" title=" " alt="" coords="692,123,861,177"/>
+<area shape="rect" id="node3" href="$popcount_8hpp.html" title=" " alt="" coords="577,225,747,280"/>
+<area shape="rect" id="node18" href="$mt__twist_8avx2_8part_8hpp.html" title=" " alt="" coords="771,225,1015,280"/>
+<area shape="rect" id="node4" href="$bit_8hpp.html" title=" " alt="" coords="577,328,747,383"/>
+<area shape="rect" id="node5" href="$shell__sort_8hpp.html" title=" " alt="" coords="295,431,464,485"/>
+<area shape="rect" id="node14" href="$bitset__size__unrelated_8hpp.html" title=" " alt="" coords="488,431,695,485"/>
+<area shape="rect" id="node15" href="$static__bitset_8hpp.html" title=" " alt="" coords="535,533,704,588"/>
+<area shape="rect" id="node16" href="$sha1_8impl_8hpp.html" title=" " alt="" coords="770,431,941,485"/>
+<area shape="rect" id="node6" href="$sort_8hpp.html" title=" " alt="" coords="295,533,464,588"/>
+<area shape="rect" id="node7" href="$flat__ordered__base_8hpp.html" title=" " alt="" coords="286,636,473,691"/>
+<area shape="rect" id="node8" href="$flat__ordered_8hpp.html" title=" " alt="" coords="199,739,368,793"/>
+<area shape="rect" id="node11" href="$static__ordered_8hpp.html" title=" " alt="" coords="392,739,561,793"/>
+<area shape="rect" id="node9" href="$flat__multiset_8hpp.html" title=" " alt="" coords="5,841,175,896"/>
+<area shape="rect" id="node10" href="$flat__set_8hpp.html" title=" " alt="" coords="199,841,368,896"/>
+<area shape="rect" id="node12" href="$static__flat__multiset_8hpp.html" title=" " alt="" coords="392,841,561,896"/>
+<area shape="rect" id="node13" href="$static__flat__set_8hpp.html" title=" " alt="" coords="585,841,755,896"/>
+<area shape="rect" id="node17" href="$sha1_8hpp.html" title=" " alt="" coords="758,541,953,581"/>
+</map>

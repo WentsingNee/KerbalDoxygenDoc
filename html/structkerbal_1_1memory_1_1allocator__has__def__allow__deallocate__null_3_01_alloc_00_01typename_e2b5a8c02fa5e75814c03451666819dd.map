@@ -1,0 +1,5 @@
+<map id="kerbal::memory::allocator_has_def_allow_deallocate_null&lt; Alloc, typename kerbal::type_traits::void_type&lt; typename Alloc::allow_deallocate_null &gt;::type &gt;" name="kerbal::memory::allocator_has_def_allow_deallocate_null&lt; Alloc, typename kerbal::type_traits::void_type&lt; typename Alloc::allow_deallocate_null &gt;::type &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="5,196,240,280"/>
+<area shape="rect" id="node2" href="$structkerbal_1_1type__traits_1_1true__type.html" title=" " alt="" coords="61,108,184,148"/>
+<area shape="rect" id="node3" href="$structkerbal_1_1type__traits_1_1integral__constant.html" title=" " alt="" coords="59,5,186,60"/>
+</map>

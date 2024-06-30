@@ -1,0 +1,52 @@
+<map id="/github/workspace/Kerbal/include/kerbal/memory/allocator_traits/destroy.hpp" name="/github/workspace/Kerbal/include/kerbal/memory/allocator_traits/destroy.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2428,5,2609,60"/>
+<area shape="rect" id="node2" href="$cxx__stdlib_8hpp.html" title=" " alt="" coords="335,401,515,427"/>
+<area shape="rect" id="node4" title=" " alt="" coords="670,629,735,654"/>
+<area shape="rect" id="node7" href="$constexpr_8hpp.html" title=" " alt="" coords="2673,621,2807,661"/>
+<area shape="rect" id="node8" href="$noexcept_8hpp.html" title=" " alt="" coords="2411,621,2544,661"/>
+<area shape="rect" id="node17" href="$uninitialized_2destroy_8hpp.html" title=" " alt="" coords="2429,108,2608,148"/>
+<area shape="rect" id="node21" href="$integral__constant_8hpp.html" title=" " alt="" coords="2219,504,2368,544"/>
+<area shape="rect" id="node28" href="$void__type_8hpp.html" title=" " alt="" coords="1241,504,1362,544"/>
+<area shape="rect" id="node41" href="$is__nothrow__destructible_8hpp.html" title=" " alt="" coords="3019,196,3205,236"/>
+<area shape="rect" id="node47" href="$declval_8hpp.html" title=" " alt="" coords="2140,115,2300,141"/>
+<area shape="rect" id="node3" href="$__0__libstdcxx_8part_8hpp.html" title=" " alt="" coords="433,504,639,544"/>
+<area shape="rect" id="node5" href="$__1__libcxx_8part_8hpp.html" title=" " alt="" coords="5,504,195,544"/>
+<area shape="rect" id="node6" href="$config_2detail_2cxx__stdlib_2__2__msvc_8part_8hpp.html" title=" " alt="" coords="219,504,408,544"/>
+<area shape="rect" id="node9" href="$exceptions_8hpp.html" title=" " alt="" coords="2385,746,2570,771"/>
+<area shape="rect" id="node10" href="$compiler__id_8hpp.html" title=" " alt="" coords="2414,1047,2562,1087"/>
+<area shape="rect" id="node15" href="$compiler__private_8hpp.html" title=" " alt="" coords="2495,849,2643,889"/>
+<area shape="rect" id="node11" href="$config_2detail_2compiler__id_2__0__gnu_8part_8hpp.html" title=" " alt="" coords="2068,1135,2255,1175"/>
+<area shape="rect" id="node12" href="$config_2detail_2compiler__id_2__1__clang_8part_8hpp.html" title=" " alt="" coords="2279,1135,2476,1175"/>
+<area shape="rect" id="node13" href="$config_2detail_2compiler__id_2__2__msvc_8part_8hpp.html" title=" " alt="" coords="2501,1135,2699,1175"/>
+<area shape="rect" id="node14" href="$config_2detail_2compiler__id_2__3__icc_8part_8hpp.html" title=" " alt="" coords="2723,1135,2906,1175"/>
+<area shape="rect" id="node16" href="$config_2detail_2compiler__private_2__0__gnu_8part_8hpp.html" title=" " alt="" coords="2525,944,2664,999"/>
+<area shape="rect" id="node18" href="$iterator_8hpp.html" title=" " alt="" coords="2309,203,2478,229"/>
+<area shape="rect" id="node20" href="$iterator__traits_8hpp.html" title=" " alt="" coords="1754,291,1899,331"/>
+<area shape="rect" id="node34" href="$is__trivially__destructible_8hpp.html" title=" " alt="" coords="2888,394,3069,434"/>
+<area shape="rect" id="node19" href="$static__assert_8hpp.html" title=" " alt="" coords="2325,291,2459,331"/>
+<area shape="rect" id="node30" href="$sign__deduction_8hpp.html" title=" " alt="" coords="1923,291,2061,331"/>
+<area shape="rect" id="node22" href="$modules__ts_8hpp.html" title=" " alt="" coords="1405,621,1547,661"/>
+<area shape="rect" id="node23" href="$is__same_8hpp.html" title=" " alt="" coords="1833,394,1954,434"/>
+<area shape="rect" id="node25" href="$remove__cv_8hpp.html" title=" " alt="" coords="939,394,1061,434"/>
+<area shape="rect" id="node29" title=" " alt="" coords="1401,401,1463,427"/>
+<area shape="rect" id="node24" href="$logical_8hpp.html" title=" " alt="" coords="1895,504,2017,544"/>
+<area shape="rect" id="node26" href="$remove__const_8hpp.html" title=" " alt="" coords="982,504,1114,544"/>
+<area shape="rect" id="node27" href="$remove__volatile_8hpp.html" title=" " alt="" coords="816,504,957,544"/>
+<area shape="rect" id="node31" href="$copy__cv_8hpp.html" title=" " alt="" coords="1539,394,1661,434"/>
+<area shape="rect" id="node32" href="$is__arithmetic_8hpp.html" title=" " alt="" coords="2030,394,2154,434"/>
+<area shape="rect" id="node33" href="$type__identity_8hpp.html" title=" " alt="" coords="1685,394,1808,434"/>
+<area shape="rect" id="node35" href="$is__trivially__destructible_8part_8hpp.html" title=" " alt="" coords="2831,607,2988,676"/>
+<area shape="rect" id="node39" href="$try__test__is__trivially__destructible_8part_8hpp.html" title=" " alt="" coords="2947,489,3157,559"/>
+<area shape="rect" id="node36" href="$is__trivially__destructible_8intrin_8part_8hpp.html" title=" " alt="" coords="2821,724,2997,793"/>
+<area shape="rect" id="node38" href="$is__trivially__destructible_8std_8part_8hpp.html" title=" " alt="" coords="2618,724,2785,793"/>
+<area shape="rect" id="node37" href="$compiler__intrinsics_8hpp.html" title=" " alt="" coords="2825,841,2994,896"/>
+<area shape="rect" id="node40" href="$try__test__is__trivially__destructible_8guess_8part_8hpp.html" title=" " alt="" coords="3013,607,3259,676"/>
+<area shape="rect" id="node42" href="$is__nothrow__destructible_8part_8hpp.html" title=" " alt="" coords="3418,387,3630,441"/>
+<area shape="rect" id="node45" href="$try__test__is__nothrow__destructible_8part_8hpp.html" title=" " alt="" coords="3113,284,3375,339"/>
+<area shape="rect" id="node43" href="$is__nothrow__destructible_8intrin_8part_8hpp.html" title=" " alt="" coords="3216,731,3459,786"/>
+<area shape="rect" id="node44" href="$is__nothrow__destructible_8isdes_8part_8hpp.html" title=" " alt="" coords="3239,497,3486,551"/>
+<area shape="rect" id="node46" href="$try__test__is__nothrow__destructible_8guess_8part_8hpp.html" title=" " alt="" coords="3094,387,3394,441"/>
+<area shape="rect" id="node48" href="$add__rvalue__reference_8hpp.html" title=" " alt="" coords="1598,196,1773,236"/>
+<area shape="rect" id="node49" href="$add__rvalue__reference_8cxx11_8part_8hpp.html" title=" " alt="" coords="1139,284,1373,339"/>
+<area shape="rect" id="node50" href="$is__referencable_8hpp.html" title=" " alt="" coords="1187,394,1325,434"/>
+</map>

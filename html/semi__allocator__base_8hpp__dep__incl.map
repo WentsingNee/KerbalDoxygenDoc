@@ -1,0 +1,12 @@
+<map id="/github/workspace/Kerbal/include/kerbal/autonm/semi_allocator/semi_allocator_base.hpp" name="/github/workspace/Kerbal/include/kerbal/autonm/semi_allocator/semi_allocator_base.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="17,5,216,75"/>
+<area shape="rect" id="node2" href="$semi__allocator_8hpp.html" title=" " alt="" coords="32,255,201,309"/>
+<area shape="rect" id="node3" href="$default__delete__semi__allocator_8hpp.html" title=" " alt="" coords="27,123,206,192"/>
+<area shape="rect" id="node4" href="$discard__deallocate__semi__allocator_8hpp.html" title=" " alt="" coords="230,123,432,192"/>
+<area shape="rect" id="node5" href="$fixed__size__node__allocator_8decl_8hpp.html" title=" " alt="" coords="235,240,408,324"/>
+<area shape="rect" id="node8" href="$monotonic__allocator_8decl_8hpp.html" title=" " alt="" coords="432,247,627,317"/>
+<area shape="rect" id="node6" href="$fixed__size__node__allocator_8hpp.html" title=" " alt="" coords="214,504,384,573"/>
+<area shape="rect" id="node7" href="$fixed__size__node__allocator_8impl_8hpp.html" title=" " alt="" coords="256,372,430,456"/>
+<area shape="rect" id="node9" href="$monotonic__allocator_8hpp.html" title=" " alt="" coords="443,511,662,566"/>
+<area shape="rect" id="node10" href="$monotonic__allocator_8impl_8hpp.html" title=" " alt="" coords="546,379,740,449"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="/github/workspace/Kerbal/include/kerbal/type_traits/add_pointer.hpp" name="/github/workspace/Kerbal/include/kerbal/type_traits/add_pointer.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="273,5,444,60"/>
+<area shape="rect" id="node2" href="$modules__ts_8hpp.html" title=" " alt="" coords="430,372,573,412"/>
+<area shape="rect" id="node3" href="$is__referencable_8hpp.html" title=" " alt="" coords="179,196,317,236"/>
+<area shape="rect" id="node16" href="$is__void_8hpp.html" title=" " alt="" coords="443,108,565,148"/>
+<area shape="rect" id="node21" href="$logical_8hpp.html" title=" " alt="" coords="298,108,419,148"/>
+<area shape="rect" id="node23" href="$remove__reference_8hpp.html" title=" " alt="" coords="5,108,160,148"/>
+<area shape="rect" id="node4" href="$integral__constant_8hpp.html" title=" " alt="" coords="67,284,216,324"/>
+<area shape="rect" id="node15" href="$void__type_8hpp.html" title=" " alt="" coords="241,284,362,324"/>
+<area shape="rect" id="node5" href="$constexpr_8hpp.html" title=" " alt="" coords="75,372,208,412"/>
+<area shape="rect" id="node6" href="$noexcept_8hpp.html" title=" " alt="" coords="252,372,385,412"/>
+<area shape="rect" id="node7" href="$exceptions_8hpp.html" title=" " alt="" coords="370,460,555,485"/>
+<area shape="rect" id="node8" href="$compiler__id_8hpp.html" title=" " alt="" coords="577,724,725,764"/>
+<area shape="rect" id="node13" href="$compiler__private_8hpp.html" title=" " alt="" coords="501,533,649,573"/>
+<area shape="rect" id="node9" href="$config_2detail_2compiler__id_2__0__gnu_8part_8hpp.html" title=" " alt="" coords="231,812,417,852"/>
+<area shape="rect" id="node10" href="$config_2detail_2compiler__id_2__1__clang_8part_8hpp.html" title=" " alt="" coords="441,812,639,852"/>
+<area shape="rect" id="node11" href="$config_2detail_2compiler__id_2__2__msvc_8part_8hpp.html" title=" " alt="" coords="663,812,862,852"/>
+<area shape="rect" id="node12" href="$config_2detail_2compiler__id_2__3__icc_8part_8hpp.html" title=" " alt="" coords="886,812,1069,852"/>
+<area shape="rect" id="node14" href="$config_2detail_2compiler__private_2__0__gnu_8part_8hpp.html" title=" " alt="" coords="581,621,720,676"/>
+<area shape="rect" id="node17" href="$remove__cv_8hpp.html" title=" " alt="" coords="669,196,790,236"/>
+<area shape="rect" id="node18" href="$remove__const_8hpp.html" title=" " alt="" coords="691,284,823,324"/>
+<area shape="rect" id="node20" href="$remove__volatile_8hpp.html" title=" " alt="" coords="848,284,989,324"/>
+<area shape="rect" id="node19" title=" " alt="" coords="805,379,870,405"/>
+<area shape="rect" id="node22" href="$conditional_8hpp.html" title=" " alt="" coords="342,196,463,236"/>
+</map>
