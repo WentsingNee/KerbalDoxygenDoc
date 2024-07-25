@@ -1,0 +1,14 @@
+<map id="/github/workspace/Kerbal/include/kerbal/type_traits/detail/is_abstract/is_abstract.part.hpp" name="/github/workspace/Kerbal/include/kerbal/type_traits/detail/is_abstract/is_abstract.part.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="409,5,652,60"/>
+<area shape="rect" id="node2" href="$is__abstract_8intrin_8part_8hpp.html" title=" " alt="" coords="351,108,521,163"/>
+<area shape="rect" id="node12" href="$is__abstract_8std_8part_8hpp.html" title=" " alt="" coords="545,108,705,163"/>
+<area shape="rect" id="node3" href="$compiler__intrinsics_8hpp.html" title=" " alt="" coords="351,211,521,265"/>
+<area shape="rect" id="node4" href="$compiler__id_8hpp.html" title=" " alt="" coords="351,607,499,647"/>
+<area shape="rect" id="node9" href="$type__traits_2detail_2compiler__intrinsics_2part_2__0__gnu_8part_8hpp.html" title=" " alt="" coords="413,313,582,368"/>
+<area shape="rect" id="node5" href="$config_2detail_2compiler__id_2__0__gnu_8part_8hpp.html" title=" " alt="" coords="5,695,192,735"/>
+<area shape="rect" id="node6" href="$config_2detail_2compiler__id_2__1__clang_8part_8hpp.html" title=" " alt="" coords="216,695,413,735"/>
+<area shape="rect" id="node7" href="$config_2detail_2compiler__id_2__2__msvc_8part_8hpp.html" title=" " alt="" coords="438,695,637,735"/>
+<area shape="rect" id="node8" href="$config_2detail_2compiler__id_2__3__icc_8part_8hpp.html" title=" " alt="" coords="661,695,843,735"/>
+<area shape="rect" id="node10" href="$compiler__private_8hpp.html" title=" " alt="" coords="423,416,571,456"/>
+<area shape="rect" id="node11" href="$config_2detail_2compiler__private_2__0__gnu_8part_8hpp.html" title=" " alt="" coords="463,504,601,559"/>
+</map>

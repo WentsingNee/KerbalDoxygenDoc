@@ -1,0 +1,5 @@
+<map id="kerbal::utility::noncopyassignable" name="kerbal::utility::noncopyassignable">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,215,81"/>
+<area shape="rect" id="node2" href="$classkerbal_1_1memory_1_1fixed__size__node__allocator.html" title=" " alt="" coords="291,5,457,60"/>
+<area shape="rect" id="node3" href="$classkerbal_1_1memory_1_1monotonic__allocator.html" title=" " alt="" coords="263,85,485,125"/>
+</map>

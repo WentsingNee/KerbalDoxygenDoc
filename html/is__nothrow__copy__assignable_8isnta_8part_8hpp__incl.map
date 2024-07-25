@@ -1,0 +1,19 @@
+<map id="/github/workspace/Kerbal/include/kerbal/type_traits/detail/is_nothrow_copy_assignable/is_nothrow_copy_assignable.isnta.part.hpp" name="/github/workspace/Kerbal/include/kerbal/type_traits/detail/is_nothrow_copy_assignable/is_nothrow_copy_assignable.isnta.part.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="404,5,676,75"/>
+<area shape="rect" id="node2" href="$is__nothrow__assignable_8part_8hpp.html" title=" " alt="" coords="437,123,643,177"/>
+<area shape="rect" id="node3" href="$is__nothrow__assignable_8intrin_8part_8hpp.html" title=" " alt="" coords="311,328,550,383"/>
+<area shape="rect" id="node13" href="$is__nothrow__assignable_8traits11_8part_8hpp.html" title=" " alt="" coords="511,225,764,280"/>
+<area shape="rect" id="node4" href="$compiler__intrinsics_8hpp.html" title=" " alt="" coords="351,533,521,588"/>
+<area shape="rect" id="node5" href="$compiler__id_8hpp.html" title=" " alt="" coords="351,929,499,969"/>
+<area shape="rect" id="node10" href="$type__traits_2detail_2compiler__intrinsics_2part_2__0__gnu_8part_8hpp.html" title=" " alt="" coords="413,636,582,691"/>
+<area shape="rect" id="node6" href="$config_2detail_2compiler__id_2__0__gnu_8part_8hpp.html" title=" " alt="" coords="5,1017,192,1057"/>
+<area shape="rect" id="node7" href="$config_2detail_2compiler__id_2__1__clang_8part_8hpp.html" title=" " alt="" coords="216,1017,413,1057"/>
+<area shape="rect" id="node8" href="$config_2detail_2compiler__id_2__2__msvc_8part_8hpp.html" title=" " alt="" coords="438,1017,637,1057"/>
+<area shape="rect" id="node9" href="$config_2detail_2compiler__id_2__3__icc_8part_8hpp.html" title=" " alt="" coords="661,1017,843,1057"/>
+<area shape="rect" id="node11" href="$compiler__private_8hpp.html" title=" " alt="" coords="423,739,571,779"/>
+<area shape="rect" id="node12" href="$config_2detail_2compiler__private_2__0__gnu_8part_8hpp.html" title=" " alt="" coords="463,827,601,881"/>
+<area shape="rect" id="node14" href="$is__assignable_8part_8hpp.html" title=" " alt="" coords="605,328,760,383"/>
+<area shape="rect" id="node15" href="$is__assignable_8intrin_8part_8hpp.html" title=" " alt="" coords="409,431,594,485"/>
+<area shape="rect" id="node16" href="$is__assignable_8sfinae_8part_8hpp.html" title=" " alt="" coords="618,431,809,485"/>
+<area shape="rect" id="node17" href="$is__assignable_8std_8part_8hpp.html" title=" " alt="" coords="833,431,1007,485"/>
+</map>
