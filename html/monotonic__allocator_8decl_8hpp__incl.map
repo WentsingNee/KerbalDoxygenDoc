@@ -1,0 +1,52 @@
+<map id="/github/workspace/Kerbal/include/kerbal/memory/allocator/monotonic_allocator/monotonic_allocator.decl.hpp" name="/github/workspace/Kerbal/include/kerbal/memory/allocator/monotonic_allocator/monotonic_allocator.decl.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="3017,5,3212,75"/>
+<area shape="rect" id="node2" href="$monotonic__allocator_8fwd_8hpp.html" title=" " alt="" coords="1000,431,1207,485"/>
+<area shape="rect" id="node3" href="$namespace__std__scope_8hpp.html" title=" " alt="" coords="1341,541,1525,581"/>
+<area shape="rect" id="node5" href="$noexcept_8hpp.html" title=" " alt="" coords="1969,724,2102,764"/>
+<area shape="rect" id="node8" href="$default__allocator_8decl_8hpp.html" title=" " alt="" coords="443,431,607,485"/>
+<area shape="rect" id="node9" href="$constexpr_8hpp.html" title=" " alt="" coords="2589,724,2722,764"/>
+<area shape="rect" id="node12" href="$pointer__alignment_8hpp.html" title=" " alt="" coords="634,541,784,581"/>
+<area shape="rect" id="node13" href="$integral__constant_8hpp.html" title=" " alt="" coords="4106,636,4256,676"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1615,643,1680,669"/>
+<area shape="rect" id="node15" href="$autonm_2forward__list_8hpp.html" title=" " alt="" coords="1635,130,1786,170"/>
+<area shape="rect" id="node19" href="$tribool__constant_8hpp.html" title=" " alt="" coords="3240,438,3383,478"/>
+<area shape="rect" id="node20" href="$static__assert_8hpp.html" title=" " alt="" coords="3290,541,3424,581"/>
+<area shape="rect" id="node21" href="$is__nothrow__move__constructible_8hpp.html" title=" " alt="" coords="3407,438,3640,478"/>
+<area shape="rect" id="node22" href="$allocator__traits_8hpp.html" title=" " alt="" coords="3852,335,4012,375"/>
+<area shape="rect" id="node39" href="$noncopyable_8hpp.html" title=" " alt="" coords="1435,445,1626,471"/>
+<area shape="rect" id="node43" href="$declval_8hpp.html" title=" " alt="" coords="845,240,1005,265"/>
+<area shape="rect" id="node44" href="$discard__deallocate__semi__allocator_8hpp.html" title=" " alt="" coords="683,431,874,485"/>
+<area shape="rect" id="node46" href="$container__allocator__overload_8hpp.html" title=" " alt="" coords="2862,233,3076,273"/>
+<area shape="rect" id="node47" href="$numeric__limits_8hpp.html" title=" " alt="" coords="4378,130,4536,170"/>
+<area shape="rect" id="node48" href="$is__nothrow__default__constructible_8hpp.html" title=" " alt="" coords="5147,123,5282,177"/>
+<area shape="rect" id="node49" href="$is__nothrow__copy__constructible_8hpp.html" title=" " alt="" coords="5306,130,5534,170"/>
+<area shape="rect" id="node50" href="$is__same_8hpp.html" title=" " alt="" coords="5046,335,5167,375"/>
+<area shape="rect" id="node7" href="$default__allocator_8fwd_8hpp.html" title=" " alt="" coords="1152,533,1316,588"/>
+<area shape="rect" id="node4" href="$cxx__stdlib_8hpp.html" title=" " alt="" coords="1343,643,1523,669"/>
+<area shape="rect" id="node6" href="$exceptions_8hpp.html" title=" " alt="" coords="1943,812,2128,837"/>
+<area shape="rect" id="node10" href="$malloc__allocator_8hpp.html" title=" " alt="" coords="94,541,254,581"/>
+<area shape="rect" id="node11" href="$over__aligned__allocator_8hpp.html" title=" " alt="" coords="278,541,457,581"/>
+<area shape="rect" id="node16" href="$container__rebind__allocator__overload_8hpp.html" title=" " alt="" coords="2252,225,2430,280"/>
+<area shape="rect" id="node18" href="$compatibility_2move_8hpp.html" title=" " alt="" coords="2880,438,3013,478"/>
+<area shape="rect" id="node23" href="$forward_8hpp.html" title=" " alt="" coords="2541,445,2704,471"/>
+<area shape="rect" id="node38" href="$single__list__node_8hpp.html" title=" " alt="" coords="1810,328,1968,383"/>
+<area shape="rect" id="node40" href="$forward__list__iterator_8hpp.html" title=" " alt="" coords="1510,225,1684,280"/>
+<area shape="rect" id="node41" href="$forward__list__base_8hpp.html" title=" " alt="" coords="1333,233,1485,273"/>
+<area shape="rect" id="node42" href="$sequence__compare_8hpp.html" title=" " alt="" coords="1802,541,1973,581"/>
+<area shape="rect" id="node17" href="$swap_8hpp.html" title=" " alt="" coords="2708,343,2881,368"/>
+<area shape="rect" id="node35" href="$in__place_8hpp.html" title=" " alt="" coords="1803,445,1970,471"/>
+<area shape="rect" id="node36" href="$member__compress__helper_8hpp.html" title=" " alt="" coords="1994,438,2146,478"/>
+<area shape="rect" id="node37" href="$is__nothrow__constructible_8hpp.html" title=" " alt="" coords="2170,438,2365,478"/>
+<area shape="rect" id="node24" href="$pointer__type_8hpp.html" title=" " alt="" coords="4386,541,4546,581"/>
+<area shape="rect" id="node25" href="$const__pointer__type_8hpp.html" title=" " alt="" coords="3969,431,4129,485"/>
+<area shape="rect" id="node26" href="$void__pointer__type_8hpp.html" title=" " alt="" coords="4153,438,4340,478"/>
+<area shape="rect" id="node27" href="$const__void__pointer__type_8hpp.html" title=" " alt="" coords="4414,431,4585,485"/>
+<area shape="rect" id="node28" href="$size__type_8hpp.html" title=" " alt="" coords="4609,438,4769,478"/>
+<area shape="rect" id="node29" href="$difference__type_8hpp.html" title=" " alt="" coords="4793,438,4966,478"/>
+<area shape="rect" id="node30" href="$propagate__on__container__copy__assignment_8hpp.html" title=" " alt="" coords="4808,533,5008,588"/>
+<area shape="rect" id="node31" href="$propagate__on__container__move__assignment_8hpp.html" title=" " alt="" coords="3448,533,3648,588"/>
+<area shape="rect" id="node32" href="$propagate__on__container__swap_8hpp.html" title=" " alt="" coords="3672,533,3872,588"/>
+<area shape="rect" id="node33" href="$is__always__equal_8hpp.html" title=" " alt="" coords="3896,541,4077,581"/>
+<area shape="rect" id="node34" href="$rebind__alloc_8hpp.html" title=" " alt="" coords="4101,541,4261,581"/>
+<area shape="rect" id="node45" href="$semi__allocator__base_8hpp.html" title=" " alt="" coords="808,533,975,588"/>
+</map>

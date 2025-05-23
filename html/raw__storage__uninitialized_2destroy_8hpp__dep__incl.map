@@ -1,0 +1,46 @@
+<map id="/github/workspace/Kerbal/include/kerbal/memory/raw_storage_uninitialized/destroy.hpp" name="/github/workspace/Kerbal/include/kerbal/memory/raw_storage_uninitialized/destroy.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="777,5,947,75"/>
+<area shape="rect" id="node2" href="$raw__storage__uninitialized_8hpp.html" title=" " alt="" coords="765,240,959,295"/>
+<area shape="rect" id="node44" href="$raw__storage__uninitialized_2construct_8hpp.html" title=" " alt="" coords="838,123,1009,192"/>
+<area shape="rect" id="node3" href="$static__vector__base_8decl_8hpp.html" title=" " alt="" coords="638,343,825,412"/>
+<area shape="rect" id="node42" href="$static__vector_8impl_8hpp.html" title=" " alt="" coords="837,783,1068,837"/>
+<area shape="rect" id="node43" href="$static__vector__base_8impl_8hpp.html" title=" " alt="" coords="729,460,915,529"/>
+<area shape="rect" id="node4" href="$static__vector__base_8hpp.html" title=" " alt="" coords="702,577,897,632"/>
+<area shape="rect" id="node5" href="$static__vector_8decl_8hpp.html" title=" " alt="" coords="684,680,915,735"/>
+<area shape="rect" id="node6" href="$static__vector_8hpp.html" title=" " alt="" coords="791,885,960,940"/>
+<area shape="rect" id="node7" href="$static__ordered_8decl_8hpp.html" title=" " alt="" coords="630,1399,875,1453"/>
+<area shape="rect" id="node22" href="$static__priority__queue_8hpp.html" title=" " alt="" coords="791,988,960,1043"/>
+<area shape="rect" id="node23" href="$static__stack_8hpp.html" title=" " alt="" coords="984,988,1153,1043"/>
+<area shape="rect" id="node8" href="$static__ordered_8hpp.html" title=" " alt="" coords="508,1604,677,1659"/>
+<area shape="rect" id="node21" href="$static__ordered_8impl_8hpp.html" title=" " alt="" coords="630,1501,875,1556"/>
+<area shape="rect" id="node9" href="$static__flat__map_8decl_8hpp.html" title=" " alt="" coords="65,1707,240,1776"/>
+<area shape="rect" id="node12" href="$static__flat__multimap_8decl_8hpp.html" title=" " alt="" coords="305,1707,483,1776"/>
+<area shape="rect" id="node15" href="$static__flat__multiset_8decl_8hpp.html" title=" " alt="" coords="507,1707,678,1776"/>
+<area shape="rect" id="node18" href="$static__flat__set_8decl_8hpp.html" title=" " alt="" coords="703,1707,872,1776"/>
+<area shape="rect" id="node10" href="$static__flat__map_8hpp.html" title=" " alt="" coords="5,1941,175,1996"/>
+<area shape="rect" id="node11" href="$static__flat__map_8impl_8hpp.html" title=" " alt="" coords="65,1824,240,1893"/>
+<area shape="rect" id="node13" href="$static__flat__multimap_8hpp.html" title=" " alt="" coords="260,1941,429,1996"/>
+<area shape="rect" id="node14" href="$static__flat__multimap_8impl_8hpp.html" title=" " alt="" coords="315,1824,494,1893"/>
+<area shape="rect" id="node16" href="$static__flat__multiset_8hpp.html" title=" " alt="" coords="512,1941,681,1996"/>
+<area shape="rect" id="node17" href="$static__flat__multiset_8impl_8hpp.html" title=" " alt="" coords="569,1824,739,1893"/>
+<area shape="rect" id="node19" href="$static__flat__set_8hpp.html" title=" " alt="" coords="760,1941,929,1996"/>
+<area shape="rect" id="node20" href="$static__flat__set_8impl_8hpp.html" title=" " alt="" coords="815,1824,984,1893"/>
+<area shape="rect" id="node24" href="$intro__sort_8hpp.html" title=" " alt="" coords="984,1091,1153,1145"/>
+<area shape="rect" id="node25" href="$sort_8hpp.html" title=" " alt="" coords="984,1193,1153,1248"/>
+<area shape="rect" id="node26" href="$flat__ordered__base_8hpp.html" title=" " alt="" coords="975,1296,1162,1351"/>
+<area shape="rect" id="node27" href="$flat__ordered_8decl_8hpp.html" title=" " alt="" coords="1104,1399,1319,1453"/>
+<area shape="rect" id="node28" href="$flat__ordered_8hpp.html" title=" " alt="" coords="1272,1604,1441,1659"/>
+<area shape="rect" id="node41" href="$flat__ordered_8impl_8hpp.html" title=" " alt="" coords="1249,1501,1464,1556"/>
+<area shape="rect" id="node29" href="$flat__map_8decl_8hpp.html" title=" " alt="" coords="1037,1714,1215,1769"/>
+<area shape="rect" id="node32" href="$flat__multimap_8decl_8hpp.html" title=" " alt="" coords="1239,1714,1474,1769"/>
+<area shape="rect" id="node35" href="$flat__multiset_8decl_8hpp.html" title=" " alt="" coords="1498,1714,1719,1769"/>
+<area shape="rect" id="node38" href="$flat__set_8decl_8hpp.html" title=" " alt="" coords="1796,1714,1965,1769"/>
+<area shape="rect" id="node30" href="$flat__map_8hpp.html" title=" " alt="" coords="1036,1941,1205,1996"/>
+<area shape="rect" id="node31" href="$flat__map_8impl_8hpp.html" title=" " alt="" coords="1059,1831,1238,1886"/>
+<area shape="rect" id="node33" href="$flat__multimap_8hpp.html" title=" " alt="" coords="1288,1941,1457,1996"/>
+<area shape="rect" id="node34" href="$flat__multimap_8impl_8hpp.html" title=" " alt="" coords="1313,1831,1547,1886"/>
+<area shape="rect" id="node36" href="$flat__multiset_8hpp.html" title=" " alt="" coords="1609,1941,1779,1996"/>
+<area shape="rect" id="node37" href="$flat__multiset_8impl_8hpp.html" title=" " alt="" coords="1622,1831,1843,1886"/>
+<area shape="rect" id="node39" href="$flat__set_8hpp.html" title=" " alt="" coords="1835,1941,2004,1996"/>
+<area shape="rect" id="node40" href="$flat__set_8impl_8hpp.html" title=" " alt="" coords="1919,1831,2088,1886"/>
+</map>

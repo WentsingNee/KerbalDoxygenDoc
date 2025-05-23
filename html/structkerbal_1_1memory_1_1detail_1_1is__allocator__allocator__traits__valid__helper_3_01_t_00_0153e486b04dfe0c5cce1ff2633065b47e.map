@@ -1,0 +1,5 @@
+<map id="kerbal::memory::detail::is_allocator_allocator_traits_valid_helper&lt; T, typename kerbal::type_traits::void_type&lt; typename T::value_type, typename kerbal::memory::allocator_traits&lt; T &gt;::size_type, typename kerbal::memory::allocator_traits&lt; T &gt;::pointer &gt;::type &gt;" name="kerbal::memory::detail::is_allocator_allocator_traits_valid_helper&lt; T, typename kerbal::type_traits::void_type&lt; typename T::value_type, typename kerbal::memory::allocator_traits&lt; T &gt;::size_type, typename kerbal::memory::allocator_traits&lt; T &gt;::pointer &gt;::type &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="5,196,232,339"/>
+<area shape="rect" id="node2" href="$structkerbal_1_1type__traits_1_1true__type.html" title=" " alt="" coords="57,108,180,148"/>
+<area shape="rect" id="node3" href="$structkerbal_1_1type__traits_1_1integral__constant.html" title=" " alt="" coords="55,5,182,60"/>
+</map>

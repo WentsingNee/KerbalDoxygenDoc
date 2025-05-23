@@ -1,0 +1,19 @@
+<map id="/github/workspace/Kerbal/include/kerbal/type_traits/is_void.hpp" name="/github/workspace/Kerbal/include/kerbal/type_traits/is_void.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="299,5,469,60"/>
+<area shape="rect" id="node2" href="$modules__ts_8hpp.html" title=" " alt="" coords="361,284,503,324"/>
+<area shape="rect" id="node3" href="$integral__constant_8hpp.html" title=" " alt="" coords="176,108,325,148"/>
+<area shape="rect" id="node14" href="$remove__cv_8hpp.html" title=" " alt="" coords="450,108,571,148"/>
+<area shape="rect" id="node4" href="$constexpr_8hpp.html" title=" " alt="" coords="163,196,296,236"/>
+<area shape="rect" id="node5" href="$noexcept_8hpp.html" title=" " alt="" coords="5,196,139,236"/>
+<area shape="rect" id="node6" href="$exceptions_8hpp.html" title=" " alt="" coords="151,291,337,317"/>
+<area shape="rect" id="node7" href="$compiler__id_8hpp.html" title=" " alt="" coords="410,563,558,603"/>
+<area shape="rect" id="node12" href="$compiler__private_8hpp.html" title=" " alt="" coords="303,372,451,412"/>
+<area shape="rect" id="node8" href="$config_2detail_2compiler__id_2__0__gnu_8part_8hpp.html" title=" " alt="" coords="64,651,251,691"/>
+<area shape="rect" id="node9" href="$config_2detail_2compiler__id_2__1__clang_8part_8hpp.html" title=" " alt="" coords="275,651,472,691"/>
+<area shape="rect" id="node10" href="$config_2detail_2compiler__id_2__2__msvc_8part_8hpp.html" title=" " alt="" coords="497,651,695,691"/>
+<area shape="rect" id="node11" href="$config_2detail_2compiler__id_2__3__icc_8part_8hpp.html" title=" " alt="" coords="719,651,902,691"/>
+<area shape="rect" id="node13" href="$config_2detail_2compiler__private_2__0__gnu_8part_8hpp.html" title=" " alt="" coords="308,460,447,515"/>
+<area shape="rect" id="node15" href="$remove__const_8hpp.html" title=" " alt="" coords="473,196,605,236"/>
+<area shape="rect" id="node17" href="$remove__volatile_8hpp.html" title=" " alt="" coords="629,196,771,236"/>
+<area shape="rect" id="node16" title=" " alt="" coords="589,291,654,317"/>
+</map>
