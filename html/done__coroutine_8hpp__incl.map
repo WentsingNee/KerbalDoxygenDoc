@@ -1,0 +1,22 @@
+<map id="/github/workspace/Kerbal/include/kerbal/coroutine/done_coroutine.hpp" name="/github/workspace/Kerbal/include/kerbal/coroutine/done_coroutine.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="414,5,583,60"/>
+<area shape="rect" id="node2" href="$throw__this__exception_8hpp.html" title=" " alt="" coords="365,108,501,148"/>
+<area shape="rect" id="node20" title=" " alt="" coords="526,115,605,141"/>
+<area shape="rect" id="node3" href="$noexcept_8hpp.html" title=" " alt="" coords="360,533,493,573"/>
+<area shape="rect" id="node4" href="$exceptions_8hpp.html" title=" " alt="" coords="282,621,467,647"/>
+<area shape="rect" id="node12" href="$forward_8hpp.html" title=" " alt="" coords="412,196,575,221"/>
+<area shape="rect" id="node19" title=" " alt="" coords="599,196,659,221"/>
+<area shape="rect" id="node5" href="$compiler__id_8hpp.html" title=" " alt="" coords="351,885,499,925"/>
+<area shape="rect" id="node10" href="$compiler__private_8hpp.html" title=" " alt="" coords="357,695,505,735"/>
+<area shape="rect" id="node6" href="$config_2detail_2compiler__id_2__0__gnu_8part_8hpp.html" title=" " alt="" coords="5,973,192,1013"/>
+<area shape="rect" id="node7" href="$config_2detail_2compiler__id_2__1__clang_8part_8hpp.html" title=" " alt="" coords="216,973,413,1013"/>
+<area shape="rect" id="node8" href="$config_2detail_2compiler__id_2__2__msvc_8part_8hpp.html" title=" " alt="" coords="438,973,637,1013"/>
+<area shape="rect" id="node9" href="$config_2detail_2compiler__id_2__3__icc_8part_8hpp.html" title=" " alt="" coords="661,973,843,1013"/>
+<area shape="rect" id="node11" href="$config_2detail_2compiler__private_2__0__gnu_8part_8hpp.html" title=" " alt="" coords="356,783,495,837"/>
+<area shape="rect" id="node13" href="$forward_8cxx11_8part_8hpp.html" title=" " alt="" coords="412,269,601,309"/>
+<area shape="rect" id="node14" href="$constexpr_8hpp.html" title=" " alt="" coords="517,533,651,573"/>
+<area shape="rect" id="node15" href="$is__lvalue__reference_8hpp.html" title=" " alt="" coords="515,357,677,397"/>
+<area shape="rect" id="node18" href="$remove__reference_8hpp.html" title=" " alt="" coords="739,445,893,485"/>
+<area shape="rect" id="node16" href="$modules__ts_8hpp.html" title=" " alt="" coords="675,533,818,573"/>
+<area shape="rect" id="node17" href="$integral__constant_8hpp.html" title=" " alt="" coords="515,445,664,485"/>
+</map>

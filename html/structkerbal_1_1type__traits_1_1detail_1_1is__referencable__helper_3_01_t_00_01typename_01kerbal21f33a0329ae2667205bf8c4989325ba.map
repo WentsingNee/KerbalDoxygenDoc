@@ -1,0 +1,5 @@
+<map id="kerbal::type_traits::detail::is_referencable_helper&lt; T, typename kerbal::type_traits::void_type&lt; T &amp; &gt;::type &gt;" name="kerbal::type_traits::detail::is_referencable_helper&lt; T, typename kerbal::type_traits::void_type&lt; T &amp; &gt;::type &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="5,196,189,280"/>
+<area shape="rect" id="node2" href="$structkerbal_1_1type__traits_1_1true__type.html" title=" " alt="" coords="36,108,159,148"/>
+<area shape="rect" id="node3" href="$structkerbal_1_1type__traits_1_1integral__constant.html" title=" " alt="" coords="34,5,161,60"/>
+</map>
