@@ -1,0 +1,16 @@
+<map id="/github/workspace/Kerbal/include/kerbal/memory/detail" name="/github/workspace/Kerbal/include/kerbal/memory/detail">
+<area shape="rect" id="node3" href="dir_06e77519bec6cfcc6db8508195d79e06.html" title="config" alt="" coords="5,136,61,161"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000058_000030.html" title="1" alt="" coords="66,125,74,139"/>
+<area shape="rect" id="node4" href="dir_9e3fe85e6c4fc53f0748cae89cc10195.html" title="type_traits" alt="" coords="85,136,168,161"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000058_000195.html" title="12" alt="" coords="131,111,146,126"/>
+<area shape="rect" id="node2" href="dir_08b9bf4996507dd6ef8c356cb184ae36.html" title="raw_storage" alt="" coords="185,63,279,88"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000161_000195.html" title="8" alt="" coords="160,125,168,140"/>
+<area shape="rect" id="node5" href="dir_2acd8d8c3c6f570a5a1ae5b6edae213e.html" title="compatibility" alt="" coords="193,136,287,161"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000161_000025.html" title="8" alt="" coords="241,109,249,124"/>
+<area shape="rect" id="node6" href="dir_3f205decd5f909795c51e9b4a983ae3e.html" title="utility" alt="" coords="311,136,363,161"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000161_000198.html" title="6" alt="" coords="305,111,313,126"/>
+<area shape="rect" id="node7" href="dir_4699985517f76589fda33bab56b1fa9a.html" title="macro" alt="" coords="388,136,447,161"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000161_000135.html" title="2" alt="" coords="370,114,378,129"/>
+<area shape="rect" id="clust2" href="dir_ab504b16ba43d59486376aa53cc065d7.html" alt="" coords="97,52,289,99"/>
+<area shape="rect" id="clust1" href="dir_d4dce32d0d8eab9691c1b99e6b93c6b9.html" title="memory" alt="" coords="87,16,300,109"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="/github/workspace/Kerbal/include/kerbal/container/static_ordered/static_ordered.fwd.hpp" name="/github/workspace/Kerbal/include/kerbal/container/static_ordered/static_ordered.fwd.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="379,5,622,60"/>
+<area shape="rect" id="node2" href="$static__ordered_8hpp.html" title=" " alt="" coords="387,313,556,368"/>
+<area shape="rect" id="node15" href="$static__ordered_8decl_8hpp.html" title=" " alt="" coords="458,108,703,163"/>
+<area shape="rect" id="node3" href="$static__flat__map_8decl_8hpp.html" title=" " alt="" coords="69,416,244,485"/>
+<area shape="rect" id="node6" href="$static__flat__multimap_8decl_8hpp.html" title=" " alt="" coords="283,416,462,485"/>
+<area shape="rect" id="node9" href="$static__flat__multiset_8decl_8hpp.html" title=" " alt="" coords="486,416,657,485"/>
+<area shape="rect" id="node12" href="$static__flat__set_8decl_8hpp.html" title=" " alt="" coords="696,416,865,485"/>
+<area shape="rect" id="node4" href="$static__flat__map_8hpp.html" title=" " alt="" coords="5,651,175,705"/>
+<area shape="rect" id="node5" href="$static__flat__map_8impl_8hpp.html" title=" " alt="" coords="69,533,244,603"/>
+<area shape="rect" id="node7" href="$static__flat__multimap_8hpp.html" title=" " alt="" coords="227,651,396,705"/>
+<area shape="rect" id="node8" href="$static__flat__multimap_8impl_8hpp.html" title=" " alt="" coords="319,533,498,603"/>
+<area shape="rect" id="node10" href="$static__flat__multiset_8hpp.html" title=" " alt="" coords="476,651,645,705"/>
+<area shape="rect" id="node11" href="$static__flat__multiset_8impl_8hpp.html" title=" " alt="" coords="573,533,743,603"/>
+<area shape="rect" id="node13" href="$static__flat__set_8hpp.html" title=" " alt="" coords="757,651,927,705"/>
+<area shape="rect" id="node14" href="$static__flat__set_8impl_8hpp.html" title=" " alt="" coords="819,533,988,603"/>
+<area shape="rect" id="node16" href="$static__ordered_8impl_8hpp.html" title=" " alt="" coords="509,211,754,265"/>
+</map>

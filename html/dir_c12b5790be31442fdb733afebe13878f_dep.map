@@ -1,0 +1,12 @@
+<map id="/github/workspace/Kerbal/include/kerbal/memory/allocator/malloc_allocator" name="/github/workspace/Kerbal/include/kerbal/memory/allocator/malloc_allocator">
+<area shape="rect" id="node1" href="dir_c12b5790be31442fdb733afebe13878f.html" title="malloc_allocator" alt="" coords="133,52,249,77"/>
+<area shape="rect" id="node2" href="dir_2acd8d8c3c6f570a5a1ae5b6edae213e.html" title="compatibility" alt="" coords="5,125,100,151"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000137_000025.html" title="3" alt="" coords="92,117,100,131"/>
+<area shape="rect" id="node3" href="dir_3f205decd5f909795c51e9b4a983ae3e.html" title="utility" alt="" coords="124,125,176,151"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000137_000198.html" title="1" alt="" coords="169,106,177,121"/>
+<area shape="rect" id="node4" href="dir_9985579ed876dcb7e54256ca01e56e19.html" title="numeric" alt="" coords="200,125,268,151"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000137_000151.html" title="1" alt="" coords="221,98,229,112"/>
+<area shape="rect" id="node5" href="dir_9e3fe85e6c4fc53f0748cae89cc10195.html" title="type_traits" alt="" coords="293,125,375,151"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000137_000195.html" title="1" alt="" coords="294,102,302,117"/>
+<area shape="rect" id="clust1" href="dir_b29ab08f6c8325244736f6fdfe94bb23.html" title="allocator" alt="" coords="122,16,261,88"/>
+</map>

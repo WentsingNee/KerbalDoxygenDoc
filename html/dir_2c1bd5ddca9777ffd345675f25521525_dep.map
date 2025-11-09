@@ -1,0 +1,23 @@
+<map id="/github/workspace/Kerbal/include/kerbal/compare" name="/github/workspace/Kerbal/include/kerbal/compare">
+<area shape="rect" id="node1" href="dir_06e77519bec6cfcc6db8508195d79e06.html" title="config" alt="" coords="253,136,309,161"/>
+<area shape="rect" id="node2" href="dir_2acd8d8c3c6f570a5a1ae5b6edae213e.html" title="compatibility" alt="" coords="287,209,382,235"/>
+<area shape="rect" id="node3" href="dir_3f205decd5f909795c51e9b4a983ae3e.html" title="utility" alt="" coords="361,136,413,161"/>
+<area shape="rect" id="node4" href="dir_401af89c993bf777dcf5120561f7d0cf.html" title="container" alt="" coords="437,136,512,161"/>
+<area shape="rect" id="node5" href="dir_4699985517f76589fda33bab56b1fa9a.html" title="macro" alt="" coords="536,136,595,161"/>
+<area shape="rect" id="node6" href="dir_4f0de1924cba7946bdb783638ea857eb.html" title="iterator" alt="" coords="619,136,682,161"/>
+<area shape="rect" id="node7" href="dir_9e3fe85e6c4fc53f0748cae89cc10195.html" title="type_traits" alt="" coords="707,136,789,161"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000024_000030.html" title="1" alt="" coords="235,117,243,131"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000024_000025.html" title="13" alt="" coords="339,184,354,199"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000024_000198.html" title="4" alt="" coords="341,121,349,135"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000024_000031.html" title="1" alt="" coords="417,119,425,134"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000024_000135.html" title="1" alt="" coords="515,120,523,134"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000024_000129.html" title="3" alt="" coords="599,120,607,134"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000024_000195.html" title="7" alt="" coords="685,120,693,134"/>
+<area shape="rect" id="node9" href="dir_827cb4af1552d2d42005eba68f50625e.html" title="sequence_compare" alt="" coords="66,136,201,161"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000024_000164.html" title="2" alt="" coords="114,109,122,124"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000164_000025.html" title="2" alt="" coords="282,187,290,202"/>
+<area shape="rect" id="node10" href="dir_fddf9da906f7ac864b3259ffc943ba17.html" title="std_compare" alt="" coords="134,63,231,88"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000181_000025.html" title="1" alt="" coords="397,220,405,234"/>
+<area shape="rect" id="clust2" href="dir_2c1bd5ddca9777ffd345675f25521525.html" alt="" coords="27,52,243,172"/>
+<area shape="rect" id="clust1" href="dir_8010f79c5df94a61fd28c0181602b04d.html" title="kerbal" alt="" coords="16,16,827,245"/>
+</map>

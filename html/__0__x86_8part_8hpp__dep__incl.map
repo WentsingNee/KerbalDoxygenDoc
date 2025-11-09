@@ -1,0 +1,17 @@
+<map id="/github/workspace/Kerbal/include/kerbal/config/detail/architecture/_0_x86.part.hpp" name="/github/workspace/Kerbal/include/kerbal/config/detail/architecture/_0_x86.part.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="480,5,649,75"/>
+<area shape="rect" id="node2" href="$architecture_8hpp.html" title=" " alt="" coords="480,123,649,177"/>
+<area shape="rect" id="node3" href="$popcount_8hpp.html" title=" " alt="" coords="384,233,553,287"/>
+<area shape="rect" id="node15" href="$mt__twist_8avx2_8part_8hpp.html" title=" " alt="" coords="577,225,747,295"/>
+<area shape="rect" id="node4" href="$bit_8hpp.html" title=" " alt="" coords="384,343,553,397"/>
+<area shape="rect" id="node5" href="$shell__sort_8hpp.html" title=" " alt="" coords="5,445,175,500"/>
+<area shape="rect" id="node6" href="$bitset__size__unrelated_8hpp.html" title=" " alt="" coords="199,445,405,500"/>
+<area shape="rect" id="node7" href="$static__bitset_8hpp.html" title=" " alt="" coords="216,555,385,610"/>
+<area shape="rect" id="node8" href="$sha1__context__base_8hpp.html" title=" " alt="" coords="531,445,729,500"/>
+<area shape="rect" id="node9" href="$sha1__transform__overload_8fast_8hpp.html" title=" " alt="" coords="410,548,631,617"/>
+<area shape="rect" id="node14" href="$sha1__transform__overload_8size_8hpp.html" title=" " alt="" coords="656,548,879,617"/>
+<area shape="rect" id="node10" href="$sha1__transform__overload_8hpp.html" title=" " alt="" coords="528,665,759,720"/>
+<area shape="rect" id="node11" href="$sha1_8decl_8hpp.html" title=" " alt="" coords="558,768,729,823"/>
+<area shape="rect" id="node12" href="$sha1_8hpp.html" title=" " alt="" coords="546,973,741,1013"/>
+<area shape="rect" id="node13" href="$sha1_8impl_8hpp.html" title=" " alt="" coords="619,871,790,925"/>
+</map>

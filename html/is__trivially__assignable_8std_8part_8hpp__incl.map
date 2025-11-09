@@ -1,0 +1,10 @@
+<map id="/github/workspace/Kerbal/include/kerbal/type_traits/detail/is_trivially_assignable/is_trivially_assignable.std.part.hpp" name="/github/workspace/Kerbal/include/kerbal/type_traits/detail/is_trivially_assignable/is_trivially_assignable.std.part.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="319,5,542,75"/>
+<area shape="rect" id="node2" href="$compiler__id_8hpp.html" title=" " alt="" coords="351,313,499,353"/>
+<area shape="rect" id="node7" href="$compiler__private_8hpp.html" title=" " alt="" coords="413,123,561,163"/>
+<area shape="rect" id="node3" href="$config_2detail_2compiler__id_2__0__gnu_8part_8hpp.html" title=" " alt="" coords="5,401,192,441"/>
+<area shape="rect" id="node4" href="$config_2detail_2compiler__id_2__1__clang_8part_8hpp.html" title=" " alt="" coords="216,401,413,441"/>
+<area shape="rect" id="node5" href="$config_2detail_2compiler__id_2__2__msvc_8part_8hpp.html" title=" " alt="" coords="438,401,637,441"/>
+<area shape="rect" id="node6" href="$config_2detail_2compiler__id_2__3__icc_8part_8hpp.html" title=" " alt="" coords="661,401,843,441"/>
+<area shape="rect" id="node8" href="$config_2detail_2compiler__private_2__0__gnu_8part_8hpp.html" title=" " alt="" coords="463,211,601,265"/>
+</map>

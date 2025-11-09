@@ -1,0 +1,23 @@
+<map id="/github/workspace/Kerbal/include/kerbal/hash/detail/char4tolong1.hpp" name="/github/workspace/Kerbal/include/kerbal/hash/detail/char4tolong1.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="485,5,659,60"/>
+<area shape="rect" id="node2" href="$constexpr_8hpp.html" title=" " alt="" coords="44,460,177,500"/>
+<area shape="rect" id="node3" href="$fixed__width__integer_8hpp.html" title=" " alt="" coords="219,108,379,148"/>
+<area shape="rect" id="node9" href="$noexcept_8hpp.html" title=" " alt="" coords="477,460,611,500"/>
+<area shape="rect" id="node20" title=" " alt="" coords="610,115,675,141"/>
+<area shape="rect" id="node21" title=" " alt="" coords="699,115,759,141"/>
+<area shape="rect" id="node4" href="$static__assert_8hpp.html" title=" " alt="" coords="43,196,176,236"/>
+<area shape="rect" id="node5" href="$conditional_8hpp.html" title=" " alt="" coords="138,372,259,412"/>
+<area shape="rect" id="node7" href="$is__same_8hpp.html" title=" " alt="" coords="386,196,507,236"/>
+<area shape="rect" id="node19" title=" " alt="" coords="201,203,261,229"/>
+<area shape="rect" id="node6" href="$modules__ts_8hpp.html" title=" " alt="" coords="254,460,397,500"/>
+<area shape="rect" id="node8" href="$integral__constant_8hpp.html" title=" " alt="" coords="335,372,484,412"/>
+<area shape="rect" id="node18" href="$logical_8hpp.html" title=" " alt="" coords="311,284,433,324"/>
+<area shape="rect" id="node10" href="$exceptions_8hpp.html" title=" " alt="" coords="451,548,637,573"/>
+<area shape="rect" id="node11" href="$compiler__id_8hpp.html" title=" " alt="" coords="521,812,669,852"/>
+<area shape="rect" id="node16" href="$compiler__private_8hpp.html" title=" " alt="" coords="526,621,674,661"/>
+<area shape="rect" id="node12" href="$config_2detail_2compiler__id_2__0__gnu_8part_8hpp.html" title=" " alt="" coords="175,900,361,940"/>
+<area shape="rect" id="node13" href="$config_2detail_2compiler__id_2__1__clang_8part_8hpp.html" title=" " alt="" coords="385,900,583,940"/>
+<area shape="rect" id="node14" href="$config_2detail_2compiler__id_2__2__msvc_8part_8hpp.html" title=" " alt="" coords="607,900,806,940"/>
+<area shape="rect" id="node15" href="$config_2detail_2compiler__id_2__3__icc_8part_8hpp.html" title=" " alt="" coords="830,900,1013,940"/>
+<area shape="rect" id="node17" href="$config_2detail_2compiler__private_2__0__gnu_8part_8hpp.html" title=" " alt="" coords="525,709,664,764"/>
+</map>

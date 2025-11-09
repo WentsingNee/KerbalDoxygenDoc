@@ -1,0 +1,18 @@
+<map id="/github/workspace/Kerbal/include/kerbal/utility/forward.hpp" name="/github/workspace/Kerbal/include/kerbal/utility/forward.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="242,5,411,60"/>
+<area shape="rect" id="node2" href="$forward_8cxx11_8part_8hpp.html" title=" " alt="" coords="232,108,421,148"/>
+<area shape="rect" id="node3" href="$constexpr_8hpp.html" title=" " alt="" coords="151,372,284,412"/>
+<area shape="rect" id="node4" href="$noexcept_8hpp.html" title=" " alt="" coords="308,372,441,412"/>
+<area shape="rect" id="node13" href="$is__lvalue__reference_8hpp.html" title=" " alt="" coords="305,196,468,236"/>
+<area shape="rect" id="node16" href="$remove__reference_8hpp.html" title=" " alt="" coords="529,284,684,324"/>
+<area shape="rect" id="node5" href="$exceptions_8hpp.html" title=" " alt="" coords="282,460,467,485"/>
+<area shape="rect" id="node6" href="$compiler__id_8hpp.html" title=" " alt="" coords="351,724,499,764"/>
+<area shape="rect" id="node11" href="$compiler__private_8hpp.html" title=" " alt="" coords="357,533,505,573"/>
+<area shape="rect" id="node7" href="$config_2detail_2compiler__id_2__0__gnu_8part_8hpp.html" title=" " alt="" coords="5,812,192,852"/>
+<area shape="rect" id="node8" href="$config_2detail_2compiler__id_2__1__clang_8part_8hpp.html" title=" " alt="" coords="216,812,413,852"/>
+<area shape="rect" id="node9" href="$config_2detail_2compiler__id_2__2__msvc_8part_8hpp.html" title=" " alt="" coords="438,812,637,852"/>
+<area shape="rect" id="node10" href="$config_2detail_2compiler__id_2__3__icc_8part_8hpp.html" title=" " alt="" coords="661,812,843,852"/>
+<area shape="rect" id="node12" href="$config_2detail_2compiler__private_2__0__gnu_8part_8hpp.html" title=" " alt="" coords="356,621,495,676"/>
+<area shape="rect" id="node14" href="$modules__ts_8hpp.html" title=" " alt="" coords="466,372,609,412"/>
+<area shape="rect" id="node15" href="$integral__constant_8hpp.html" title=" " alt="" coords="305,284,455,324"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="/github/workspace/Kerbal/include/kerbal/memory/nothrow_t.hpp" name="/github/workspace/Kerbal/include/kerbal/memory/nothrow_t.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="359,5,528,60"/>
+<area shape="rect" id="node2" href="$malloc__allocator_8decl_8hpp.html" title=" " alt="" coords="273,108,446,177"/>
+<area shape="rect" id="node14" href="$nothrow__new_8hpp.html" title=" " alt="" coords="5,467,175,522"/>
+<area shape="rect" id="node15" href="$malloc__allocator_8impl_8hpp.html" title=" " alt="" coords="121,225,294,295"/>
+<area shape="rect" id="node16" href="$over__aligned__allocator_8impl_8hpp.html" title=" " alt="" coords="363,343,625,412"/>
+<area shape="rect" id="node18" href="$over__aligned__new_8hpp.html" title=" " alt="" coords="600,585,783,639"/>
+<area shape="rect" id="node19" href="$over__aligned__allocator_8decl_8hpp.html" title=" " alt="" coords="369,225,632,295"/>
+<area shape="rect" id="node3" href="$malloc__allocator_8hpp.html" title=" " alt="" coords="134,350,331,405"/>
+<area shape="rect" id="node4" href="$default__allocator_8decl_8hpp.html" title=" " alt="" coords="320,577,495,647"/>
+<area shape="rect" id="node6" href="$default__allocator_8impl_8hpp.html" title=" " alt="" coords="383,702,557,771"/>
+<area shape="rect" id="node13" href="$basic__new_8hpp.html" title=" " alt="" coords="313,467,483,522"/>
+<area shape="rect" id="node5" href="$default__allocator_8hpp.html" title=" " alt="" coords="345,841,544,896"/>
+<area shape="rect" id="node11" href="$fixed__size__node__allocator_8decl_8hpp.html" title=" " alt="" coords="134,695,307,779"/>
+<area shape="rect" id="node12" href="$monotonic__allocator_8decl_8hpp.html" title=" " alt="" coords="582,702,777,771"/>
+<area shape="rect" id="node7" href="$fixed__size__node__allocator_8impl_8hpp.html" title=" " alt="" coords="147,827,321,911"/>
+<area shape="rect" id="node9" href="$monotonic__allocator_8impl_8hpp.html" title=" " alt="" coords="569,834,763,903"/>
+<area shape="rect" id="node8" href="$fixed__size__node__allocator_8hpp.html" title=" " alt="" coords="87,959,258,1028"/>
+<area shape="rect" id="node10" href="$monotonic__allocator_8hpp.html" title=" " alt="" coords="623,966,842,1021"/>
+<area shape="rect" id="node17" href="$over__aligned__allocator_8hpp.html" title=" " alt="" coords="507,460,676,529"/>
+</map>
